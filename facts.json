@@ -1,0 +1,2117 @@
+[
+  {
+    "product": "swipey",
+    "fact": "pricing_tier",
+    "value": "Premium (1-month): \"$7.99 / month\", cancel anytime. Unlocks unlimited NSFW chat with no message caps and no filters, character-consistent NSFW image generation, real-time voice calls and voice messages, custom video scenes up to 60 seconds, full Verified Creator Model access, one included Fanclub subscription, 100+ roleplay scenarios with persistent plot memory, full relationship progression, free daily hearts, persistent memory across sessions and devices, and 24/7 Discord and email support.",
+    "numeric": "7.99",
+    "unit": "USD/month",
+    "source_url": "https://swipey.ai/pricing",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "swipey",
+    "fact": "pricing_tier",
+    "value": "Premium (3-month): plan exists but NO price is published. The FAQ states Swipey offers \"three Premium plans: 1-month, 3-month, and yearly\" and that \"Current pricing for each plan is always shown on the Premium page before you pay\" — i.e. behind login/checkout. The public /pricing page shows only the $7.99/month figure. Price NOT established.",
+    "numeric": "",
+    "unit": "",
+    "source_url": "https://swipey.ai/faq/hearts-billing/what-premium-plans-does-swipey-ai-offer",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "swipey",
+    "fact": "pricing_tier",
+    "value": "Premium (yearly/annual): plan exists but NO price is published. FAQ confirms a yearly plan; Terms of Service confirms \"Subscriptions are offered on a monthly or annual basis, payable by the payment methods presented at checkout.\" No annual figure or per-month equivalent appears on any public page. Price NOT established.",
+    "numeric": "",
+    "unit": "",
+    "source_url": "https://swipey.ai/faq/hearts-billing/what-premium-plans-does-swipey-ai-offer",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "swipey",
+    "fact": "pricing_tier",
+    "value": "Hearts (consumable in-app currency, sold separately from subscription): \"Hearts are the currency of Swipey AI. You spend Hearts on the experiences that go beyond chatting: voice calls, extending video scenes, live actions in Play With Me, unlocking creator content, and tipping.\" No Heart pack prices are published on any public page. Price NOT established.",
+    "numeric": "",
+    "unit": "",
+    "source_url": "https://swipey.ai/faq/hearts-billing/what-are-hearts-on-swipey-ai",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "swipey",
+    "fact": "pricing_tier",
+    "value": "Fan Club membership: \"every Swipey AI Premium plan includes one free Fan Club membership\"; additional Fan Club memberships beyond that one must be purchased separately with real money. No price for additional memberships is published. Price NOT established.",
+    "numeric": "",
+    "unit": "",
+    "source_url": "https://swipey.ai/faq/hearts-billing/does-premium-include-a-fan-club",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "swipey",
+    "fact": "free_tier",
+    "value": "A free tier exists and requires no credit card. Per the pricing page it allows: creating one AI character; browsing the gallery (Platform Models and Verified Creator Models); \"Basic chat with platform characters\"; and access to the TikTok-style explore feed. It excludes NSFW chat, image generation, voice calls, video features, Fanclub access, and daily hearts. The page states the free tier is \"intentionally limited: it's built to let you see the platform, not to be the full experience.\"",
+    "numeric": "",
+    "unit": "",
+    "source_url": "https://swipey.ai/pricing",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "swipey",
+    "fact": "free_tier",
+    "value": "Terms of Service states a hard free message cap, quoted verbatim: \"Upon registration, you may exchange up to five (10) messages without payment.\" NOTE: the clause is internally inconsistent — the written word says \"five\" while the numeral says \"10\". This cap is not disclosed on the marketing pricing page, which describes free chat only qualitatively as \"Basic chat with platform characters\".",
+    "numeric": "10",
+    "unit": "messages (free, lifetime per registration; ToS wording self-contradictory: 'five (10)')",
+    "source_url": "https://swipey.ai/terms-of-service",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "swipey",
+    "fact": "modalities",
+    "value": "Text chat/roleplay (\"Uncensored conversations with more than 100 pre-built roleplay scenarios\"); real-time voice calls and voice messages; character-consistent image generation (\"locks face and body across renders\"); video scenes up to 60 seconds; plus a TikTok-style swipeable discovery/Explorer feed and always-on live rooms (\"Play With Me Live\" / \"Live AI Girls\"). Homepage self-describes as \"AI Girlfriend Platform | Chat, Voice & NSFW\".",
+    "numeric": "",
+    "unit": "",
+    "source_url": "https://swipey.ai/",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "swipey",
+    "fact": "modalities",
+    "value": "Voice calls are Premium-only: \"Premium members only, all companion types.\" Billing is \"Billed per minute in Hearts — rate shown once before your first call\" (the actual per-minute rate is not published).",
+    "numeric": "",
+    "unit": "",
+    "source_url": "https://swipey.ai/faq/ai-features/how-do-voice-calls-work",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "swipey",
+    "fact": "limits",
+    "value": "Paid subscription entitlement, verbatim from ToS: \"A paid Subscription provides unlimited access to the messaging system and an allocation of 200 Tokens per month\" — \"which may be used for extended features such as image generation, video generation, voice notes, Voice Calls, post unlock, and access to private live rooms with models.\" So text messaging is uncapped on paid; all generative/voice/unlock features draw on the 200-token monthly allocation.",
+    "numeric": "200",
+    "unit": "tokens/month (paid tier)",
+    "source_url": "https://swipey.ai/terms-of-service",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "swipey",
+    "fact": "limits",
+    "value": "Video scene length is capped at 60 seconds and extends in fixed steps: \"each video starts short and can be extended step by step, from 5 seconds up to a full 60 seconds\" — \"Scenes extend in steps: 5s -> 10s -> 20s -> 30s -> 60s\". \"Extensions cost Hearts\" but the per-step Heart cost is not published. No cap on number of videos is stated.",
+    "numeric": "60",
+    "unit": "seconds (max video length)",
+    "source_url": "https://swipey.ai/faq/ai-features/how-do-video-scenes-in-chat-work",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "swipey",
+    "fact": "limits",
+    "value": "Image generation: no numeric cap, quota, rate limit, or per-image cost is published. The only gating stated is that \"NSFW image generation requires Swipey AI Premium.\"",
+    "numeric": "",
+    "unit": "",
+    "source_url": "https://swipey.ai/faq/ai-features/how-does-ai-image-generation-work-on-swipey-ai",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "swipey",
+    "fact": "limits",
+    "value": "Relationship progression is capped at 10 levels: \"Every chat has its own relationship bar with 10 levels, from Stranger to Soulmate.\" Relationship progression is a Premium-gated feature. Free Hearts are earnable without paying via \"Daily Rewards, Quests, and Refer-a-Friend\", but no earn amounts are published.",
+    "numeric": "10",
+    "unit": "relationship levels",
+    "source_url": "https://swipey.ai/faq/getting-started/how-swipey-ai-works",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "swipey",
+    "fact": "platforms",
+    "value": "Web only. \"Swipey AI works on any device with a modern web browser — desktop, phone, or tablet, on both iOS and Android.\" \"There is no app to download: just open swipey.ai, log in, and everything syncs across all your devices.\" Installable to home screen: users can \"add swipey.ai to your home screen from your browser's share or menu button for one-tap access — it behaves like an app, still with nothing to download.\"",
+    "numeric": "",
+    "unit": "",
+    "source_url": "https://swipey.ai/faq/getting-started/what-devices-does-swipey-ai-work-on",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "swipey",
+    "fact": "platforms",
+    "value": "No native mobile app, stated explicitly and with a warning about impostors: \"Swipey AI is a web app only. There is currently no official Swipey AI app on the Apple App Store or Google Play — listings you may find there are not ours.\"",
+    "numeric": "",
+    "unit": "",
+    "source_url": "https://swipey.ai/swipey-ai-app",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "swipey",
+    "fact": "account_requirement",
+    "value": "Email only, no card: \"Only an email address is needed — no name, phone number, or ID\" and \"Signing up is free — no card required\". Payment details are collected only when purchasing: \"Major credit and debit cards are accepted\", with \"available methods vary by region — checkout shows what works for you\"; the review page additionally lists Visa, MasterCard, Apple Pay and Google Pay.",
+    "numeric": "",
+    "unit": "",
+    "source_url": "https://swipey.ai/faq/getting-started/how-do-i-create-a-swipey-ai-account",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "generateporn-ai",
+    "fact": "pricing_tier",
+    "value": "Pay as you go — \"From $4.99\" for \"500 Credits · about 31 KREA V3 ULTRA images\". One-time Credit purchase, no membership. \"Credits never expire.\" Paying with crypto gives \"550 Credits for the same $4.99 on the entry Credit pack\" (10% bonus, one-time packs only). Unlocks metered use of any model; does NOT unlock Edit or Video, which require a membership.",
+    "numeric": "4.99",
+    "unit": "USD one-time",
+    "source_url": "https://generateporn.ai/#pricing",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "generateporn-ai",
+    "fact": "pricing_tier",
+    "value": "Starter membership — \"$14.99 / one month\" or \"$107.99 for one year\" (page labels the annual option \"Save 40%\"). Unlocks: \"1,600 included Credits refreshed monthly\", \"Unlimited KREA V3 ULTRA images with fair-use pacing\", \"Unlimited Wan 3.0 prompt writing\", \"2 concurrent generations · Edit and Video metered\", \"10% off every Credit top-up\". Fixed-term, never auto-renews.",
+    "numeric": "14.99",
+    "unit": "USD/month (annual term $107.99)",
+    "source_url": "https://generateporn.ai/#pricing",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "generateporn-ai",
+    "fact": "pricing_tier",
+    "value": "MAX membership — \"$39.99 / one month\" or \"$287.99 for one year\" (page labels the annual option \"Save 40%\"). Unlocks: \"4,500 included Credits refreshed monthly\", \"Unlimited KREA V3 ULTRA images and QWEN ULTRA edits\", \"Unlimited Wan 3.0 prompt writing\", \"2 concurrent generations with priority queue access\", \"20% off every Credit top-up\". Fixed-term, never auto-renews.",
+    "numeric": "39.99",
+    "unit": "USD/month (annual term $287.99)",
+    "source_url": "https://generateporn.ai/#pricing",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "generateporn-ai",
+    "fact": "pricing_tier",
+    "value": "Billing model for all paid tiers: \"Memberships are fixed-term and never auto-renew. Card and crypto cost the same for memberships; the 10% crypto bonus applies only to one-time Credit packs.\" Terms confirm: \"Purchases are priced in US dollars\"; card plus BTC, ETH, USDT, USDC, SOL accepted; \"Completing checkout authorises only the single charge shown.\"",
+    "numeric": "",
+    "unit": "",
+    "source_url": "https://generateporn.ai/terms/",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "generateporn-ai",
+    "fact": "free_tier",
+    "value": "Yes. \"48 free image Credits\" granted at signup, \"No card — just an account\". FAQ: \"KREA V3 ULTRA image generation costs 16 Credits without a membership. Your 48 free image Credits cover three complete generations. No card is required. Edit and Video open with a membership.\" So the free tier is a one-off 48-credit grant (3 images), not a recurring allowance, and it locks image editing and video generation entirely.",
+    "numeric": "48",
+    "unit": "credits at signup (= 3 images)",
+    "source_url": "https://generateporn.ai/#faq",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "generateporn-ai",
+    "fact": "languages",
+    "value": "English only. No multilingual support is published anywhere on the site: the document is served as <html lang=\"en\">, there are zero hreflang alternate links, zero locale-prefixed routes (/de, /nl, /fr, /es all resolve only via the SPA catch-all to the same English document), no language-switcher control, and no i18n/locale strings in the page source. German, Dutch, French and Spanish are NOT offered and are never mentioned. Verified by direct inspection of the served HTML.",
+    "numeric": "1",
+    "unit": "language (English)",
+    "source_url": "https://generateporn.ai/",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "generateporn-ai",
+    "fact": "modalities",
+    "value": "Three generation modalities, no conversational ones. (1) Text-to-image: \"KREA V3 ULTRA or Qwen Image 3 Pro\". (2) Image editing: \"QWEN ULTRA edits\". (3) Video: \"Wan 3.0\", text-to-video and two image-to-video modes, at 480p or 720p, 5 or 10 seconds. Terms §3: \"GeneratePorn.ai provides tools to generate and edit fictional-adult images using an AI generation system. Image-to-video is available with a membership.\" There is NO text chat, NO voice, and NO companion/persona chat — the words \"chat\", \"voice\", \"companion\" and \"character\" do not appear in the product page source at all. Also offered: a private Gallery, a moderated Prompt Library, and a Community Wiki.",
+    "numeric": "",
+    "unit": "",
+    "source_url": "https://generateporn.ai/#faq",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "generateporn-ai",
+    "fact": "limits",
+    "value": "Free tier: 48 credits total (one grant), 16 credits per KREA V3 ULTRA image = 3 images. Edit and Video are locked, not rate-limited. No card required.",
+    "numeric": "3",
+    "unit": "free images total",
+    "source_url": "https://generateporn.ai/#faq",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "generateporn-ai",
+    "fact": "limits",
+    "value": "Starter: 1,600 credits refreshed monthly; \"Unlimited KREA V3 ULTRA images with fair-use pacing\" (the exact fair-use threshold is not published); unlimited Wan 3.0 prompt writing; \"2 concurrent generations\"; Edit and Video metered against credits.",
+    "numeric": "1600",
+    "unit": "credits/month",
+    "source_url": "https://generateporn.ai/#pricing",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "generateporn-ai",
+    "fact": "limits",
+    "value": "MAX: 4,500 credits refreshed monthly; unlimited KREA V3 ULTRA images and unlimited QWEN ULTRA edits under fair-use pacing; \"2 concurrent generations with priority queue access\".",
+    "numeric": "4500",
+    "unit": "credits/month",
+    "source_url": "https://generateporn.ai/#pricing",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "generateporn-ai",
+    "fact": "limits",
+    "value": "Video generation credit costs (metered on every tier): \"Wan 3.0 costs 125 Credits for 5 seconds or 250 for 10 at 480p. At 720p it costs 250 Credits for 5 seconds or 500 for 10. Text-to-video and both image-to-video modes use the same clear matrix.\"",
+    "numeric": "125",
+    "unit": "credits per 5s 480p clip",
+    "source_url": "https://generateporn.ai/#faq",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "generateporn-ai",
+    "fact": "limits",
+    "value": "Credit economics and expiry: Terms §6 — \"Each Credit is valued at approximately US$0.01\"; \"Top-up Credits do not expire\"; \"Credits included with a membership are granted monthly during an active paid term. Unused membership Credits may expire at the next monthly allowance date or when the paid term ends\". \"The available catalog and Credit costs may change over time; the amount displayed on the action button immediately before submission is the amount charged for that run.\" No per-minute or per-hour API rate limit is published.",
+    "numeric": "0.01",
+    "unit": "USD per credit (approx, per Terms)",
+    "source_url": "https://generateporn.ai/terms/",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "generateporn-ai",
+    "fact": "platforms",
+    "value": "Web only. The product runs as a browser app at https://app.generateporn.ai/ with a responsive mobile layout — FAQ: \"Can I use it on my phone? Yes. Image, Edit, Video, Gallery, Credits and Profile are designed for the full mobile studio, with the same product modes available on desktop.\" There is NO iOS app and NO Android app: the marketing site's source contains zero links to apps.apple.com or play.google.com, and no app store or download is mentioned on any page.",
+    "numeric": "",
+    "unit": "",
+    "source_url": "https://generateporn.ai/#faq",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "generateporn-ai",
+    "fact": "account_requirement",
+    "value": "Email account only — no card for the free tier. Homepage states \"No card — just an account\" and the FAQ repeats \"No card is required.\" Terms §4: \"You need an account to generate content and use account-only community features... One person, one account.\" Terms §5 confirms email-based auth (\"sign-in codes\" sent to the account address, i.e. emailed codes rather than a password), and creating an account also opts you into marketing email with an unsubscribe link. Public Prompt Library entries and Wiki articles are readable without an account behind the adults-only gate.",
+    "numeric": "",
+    "unit": "",
+    "source_url": "https://generateporn.ai/terms/",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "flirtcam-ai",
+    "fact": "free_tier",
+    "value": "A free tier exists. FAQ verbatim: \"After 3 messages, you'll need to register, and after 3 more, a subscription is required to continue and view blurred images.\" So: 3 messages with no account, then 3 further messages after registering, then a paywall. Also verbatim: \"Non-registered users access only SFW content, while registered users can enjoy more spicy content.\"",
+    "numeric": "3",
+    "unit": "messages before registration required",
+    "source_url": "https://flirtcam.ai/",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "flirtcam-ai",
+    "fact": "free_tier",
+    "value": "Registration itself is free and the signup CTA is labelled \"Sign up free\". Images and videos are shown blurred to free users; the paid feature list includes \"Reveal blur videos & images\", confirming blurring is the free-tier restriction.",
+    "numeric": "",
+    "unit": "",
+    "source_url": "https://flirtcam.ai/buy-subscription",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "flirtcam-ai",
+    "fact": "limits",
+    "value": "Free tier: 3 messages unregistered + 3 messages after registering (6 total) before a subscription is required; images/videos remain blurred.",
+    "numeric": "6",
+    "unit": "total free messages",
+    "source_url": "https://flirtcam.ai/",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "flirtcam-ai",
+    "fact": "limits",
+    "value": "Paid tier allowance, verbatim from the premium feature list: \"Unlimited Messaging\", \"Get 1000 tokens monthly for image & video generation, voice call\", \"Unlimited private room video messaging\", \"Create unlimited characters\". Tokens are the metered unit for image/video/voice; extra tokens can be bought on top of the subscription.",
+    "numeric": "1000",
+    "unit": "tokens per month included with subscription",
+    "source_url": "https://flirtcam.ai/buy-subscription",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "flirtcam-ai",
+    "fact": "limits",
+    "value": "Per-generation token costs are not published anywhere pre-registration, so the 1000 monthly tokens cannot be converted into an image or video count. No published rate limits on messages for paid users beyond \"Unlimited Messaging\". ToS reserves the right to apply rate limits: \"applying rate limits, reducing functionality, or restricting visibility (\\\"shadow ban\\\")\".",
+    "numeric": "",
+    "unit": "",
+    "source_url": "https://flirtcam.ai/terms-of-service",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "flirtcam-ai",
+    "fact": "languages",
+    "value": "Four UI languages: English (default), German, Spanish, French. Confirmed by hreflang tags (en, de, es, fr, x-default) and by the static sitemap listing only /, /de, /es, /fr variants of every page. The in-page language switcher shows exactly \"en de es fr\".",
+    "numeric": "4",
+    "unit": "languages",
+    "source_url": "https://flirtcam.ai/sitemap/static.xml",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "flirtcam-ai",
+    "fact": "languages",
+    "value": "Checked specifically as requested: German YES (https://flirtcam.ai/de returns HTTP 200), French YES (/fr returns 200), Spanish YES (/es returns 200). Dutch NO — https://flirtcam.ai/nl returns HTTP 404 and no nl locale appears in any hreflang tag or in the sitemap. (Italian and Portuguese also 404.)",
+    "numeric": "",
+    "unit": "",
+    "source_url": "https://flirtcam.ai/",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "flirtcam-ai",
+    "fact": "modalities",
+    "value": "Text chat, voice, image generation, and video generation all exist. Dedicated products: AI Image Generator (/image-generator) and AI Video Generator (/video-generator). Voice is confirmed by the premium feature \"Get 1000 tokens monthly for image & video generation, voice call\" and by builder options \"Select voice\" / \"No voice\". Video/cam chat confirmed by \"Unlimited private room video messaging\" and the site's CAM positioning.",
+    "numeric": "",
+    "unit": "",
+    "source_url": "https://flirtcam.ai/buy-subscription",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "flirtcam-ai",
+    "fact": "modalities",
+    "value": "About page describes the product as \"not only ordinary chatting, but also VIDEO and CAM conversation, mutual interaction, sending pictures or emoticons\", and names \"Today 2026: Expanding functionalities and CAM focus\" as the current roadmap stage.",
+    "numeric": "",
+    "unit": "",
+    "source_url": "https://flirtcam.ai/about-flirtcam",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "flirtcam-ai",
+    "fact": "platforms",
+    "value": "Web only. No iOS or Android app: zero references to apps.apple.com, play.google.com, \"App Store\" or \"Google Play\" across the homepage, subscription page, About page, generator page or Terms. The schema.org sameAs block lists only social profiles (Facebook, YouTube, Instagram, TikTok, Pinterest) — no app-store listings. About page describes access via \"smartphone, laptop, tablet or computer\", i.e. responsive web.",
+    "numeric": "",
+    "unit": "",
+    "source_url": "https://flirtcam.ai/about-flirtcam",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "flirtcam-ai",
+    "fact": "account_requirement",
+    "value": "Email + password. ToS verbatim: \"Parts of the Services may require you to create a user account using a user email and password (the \\\"Protected Areas\\\").\" No payment card is required to register — the first 3 messages need no account at all and the signup CTA is \"Sign up free\"; payment is only required to pass the 6-message paywall. Note the site does operate an \"Age Verification Required\" flow and ToS s.20 gates explicit content behind both payment and age verification.",
+    "numeric": "",
+    "unit": "",
+    "source_url": "https://flirtcam.ai/terms-of-service",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "dreamgf-ai",
+    "fact": "pricing_tier",
+    "value": "3-Month Membership (per /pricing, verbatim): \"First Payment: $12.99\", \"Recurring Cost: $25.99/month if not canceled\". Sold under \"Limited-Time Offer — Enjoy up to 75% off on your first subscription!\"",
+    "numeric": "12.99",
+    "unit": "USD first payment, then 25.99 USD/month",
+    "source_url": "https://dreamgf.ai/pricing",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "dreamgf-ai",
+    "fact": "pricing_tier",
+    "value": "Monthly Membership (per /pricing, verbatim): \"First Payment: $29.97\", \"Recurring Cost: $77.97 every 3 months if not canceled\". NOTE: the site's own labels for this and the 3-Month tier appear transposed (the \"Monthly\" tier recurs every 3 months, the \"3-Month\" tier recurs monthly). Reported exactly as published, not corrected.",
+    "numeric": "29.97",
+    "unit": "USD first payment, then 77.97 USD/3 months",
+    "source_url": "https://dreamgf.ai/pricing",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "dreamgf-ai",
+    "fact": "pricing_tier",
+    "value": "Annual Membership (per /pricing, verbatim): \"First Payment: $69.99\", \"Recurring Cost: $311.88 annually if not canceled\"",
+    "numeric": "69.99",
+    "unit": "USD first payment, then 311.88 USD/year",
+    "source_url": "https://dreamgf.ai/pricing",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "dreamgf-ai",
+    "fact": "pricing_tier",
+    "value": "All memberships include (verbatim): \"100 Tokens every month, Voice Calls & Messages, Faster Image Generation (up to 5x), Remove Blur from Images, Faster Response Times, 100% Secure & Anonymous (Cancel anytime), 100% Privacy (No adult transactions on bank statements)\"",
+    "numeric": "100",
+    "unit": "tokens/month included",
+    "source_url": "https://dreamgf.ai/pricing",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "dreamgf-ai",
+    "fact": "pricing_tier",
+    "value": "CONFLICTING TIER SET — homepage FAQ lists entirely different plans: \"Bronze: $9.99 per month\". This contradicts /pricing, which lists no Bronze/Silver/Gold/Diamond tiers at all. Both are first-party pages; the homepage FAQ appears stale.",
+    "numeric": "9.99",
+    "unit": "USD/month",
+    "source_url": "https://dreamgf.ai/",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "dreamgf-ai",
+    "fact": "pricing_tier",
+    "value": "CONFLICTING TIER SET — homepage FAQ: \"Silver: $19.99 per month\". Not present on /pricing.",
+    "numeric": "19.99",
+    "unit": "USD/month",
+    "source_url": "https://dreamgf.ai/",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "dreamgf-ai",
+    "fact": "pricing_tier",
+    "value": "CONFLICTING TIER SET — homepage FAQ: \"Gold: $49.99 per month\". Not present on /pricing.",
+    "numeric": "49.99",
+    "unit": "USD/month",
+    "source_url": "https://dreamgf.ai/",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "dreamgf-ai",
+    "fact": "pricing_tier",
+    "value": "CONFLICTING TIER SET — homepage FAQ: \"Diamond: $99.99 per month\". Not present on /pricing.",
+    "numeric": "99.99",
+    "unit": "USD/month",
+    "source_url": "https://dreamgf.ai/",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "dreamgf-ai",
+    "fact": "pricing_tier",
+    "value": "Token packages (add-on, not a subscription tier): \"Tokens are available for purchase only to premium members. Prices start at $2.99 and go up to $179.99.\" One-off, non-recurring, auto-charged to card on click. Individual package prices/denominations between those bounds are NOT published.",
+    "numeric": "",
+    "unit": "USD 2.99-179.99 one-off range",
+    "source_url": "https://dreamgf.ai/pricing",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "dreamgf-ai",
+    "fact": "pricing_tier",
+    "value": "Maintenance Charge: \"DreamGF reserves the right to apply a Maintenance Charge of $1.99 per month to keep user accounts active and operational.\" Applies only to users who previously purchased; avoidable only by deleting the account.",
+    "numeric": "1.99",
+    "unit": "USD/month conditional",
+    "source_url": "https://dreamgf.ai/membership-policy",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "dreamgf-ai",
+    "fact": "free_tier",
+    "value": "A free trial exists but its limits are NOT quantified anywhere on the site. Homepage: \"Try our simulator for FREE!\" and FAQ: \"Yes, DreamGF offers a free trial for new users. The free trial allows you to explore the platform and experience the basic features and functionalities.\" No message, image, or duration cap is published for the free tier.",
+    "numeric": "",
+    "unit": "",
+    "source_url": "https://dreamgf.ai/",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "dreamgf-ai",
+    "fact": "free_tier",
+    "value": "Membership Policy confirms a trial precedes purchase: \"To help users make informed decisions, we offer a free trial period before they choose to purchase a membership.\" Duration and quotas of that trial period are not stated.",
+    "numeric": "",
+    "unit": "",
+    "source_url": "https://dreamgf.ai/membership-policy",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "dreamgf-ai",
+    "fact": "free_tier",
+    "value": "Free users are excluded from the referral program: \"Referral program is for premium users only.\" Token purchases are also gated: \"Tokens are available for purchase only to premium members.\"",
+    "numeric": "",
+    "unit": "",
+    "source_url": "https://dreamgf.ai/",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "dreamgf-ai",
+    "fact": "languages",
+    "value": "English ONLY. Every page served <html lang=\"en\"> with no hreflang alternates. German, Dutch, French and Spanish are NOT supported: /de, /nl, /fr and /es all return a soft-404 catch-all (HTTP 200, empty <title>, lang=\"en\") byte-identical in behaviour to a control garbage path, i.e. no localized versions exist.",
+    "numeric": "1",
+    "unit": "languages",
+    "source_url": "https://dreamgf.ai/",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "dreamgf-ai",
+    "fact": "languages",
+    "value": "Multi-language is an unshipped roadmap item marked \"Coming soon\": \"We are planning to develop a multi-language version of the website, starting with Spanish and Japanese. The multi-language will also include the chat.\" German, Dutch and French are not named even as planned languages.",
+    "numeric": "",
+    "unit": "",
+    "source_url": "https://dreamgf.ai/roadmap",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "dreamgf-ai",
+    "fact": "modalities",
+    "value": "Text chat — available. Homepage: \"Chat & sexting. Custom personalities, outfits and more.\" Roadmap #26 \"New Chat Model\" (29 Jan 2024) and #2 \"The chat has been released\" confirm it as shipped.",
+    "numeric": "",
+    "unit": "",
+    "source_url": "https://dreamgf.ai/",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "dreamgf-ai",
+    "fact": "modalities",
+    "value": "Voice — available, both directions. Roadmap #36 \"Voice Calls\" released 2 Aug 2024: \"you can not only text but hear your Virtual Girlfriend's ... voice over the phone.\" Voice messages also shipped (#31 \"My Voices\", #33 \"New Voices\"). Priced per /pricing at 3 tokens per voice message and 7 tokens per minute of voice call.",
+    "numeric": "",
+    "unit": "",
+    "source_url": "https://dreamgf.ai/roadmap",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "dreamgf-ai",
+    "fact": "modalities",
+    "value": "Image generation — available, including in-chat on-request generation. FAQ: \"the photos generated in response to your request are generated in real-time.\" Costs 10 tokens per image; memberships add \"Faster Image Generation (up to 5x)\" and \"Remove Blur from Images\".",
+    "numeric": "",
+    "unit": "",
+    "source_url": "https://dreamgf.ai/",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "dreamgf-ai",
+    "fact": "modalities",
+    "value": "Video — NOT available. Roadmap lists \"AI Videos\" under \"In progress\": \"We are working towards users being able to generate videos of their AI girlfriends.\" Terms corroborate it is unshipped by referring to \"voice messages and video generation if incorporated\" (conditional).",
+    "numeric": "",
+    "unit": "",
+    "source_url": "https://dreamgf.ai/roadmap",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "dreamgf-ai",
+    "fact": "limits",
+    "value": "Paid members get uncapped messaging: \"Users who buy a membership enjoy unlimited messaging to AI generated companions, while additional features such as AI companion creation, image generation, and voice interactions require tokens.\"",
+    "numeric": "",
+    "unit": "",
+    "source_url": "https://dreamgf.ai/membership-policy",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "dreamgf-ai",
+    "fact": "limits",
+    "value": "Token costs gate every non-text action: \"AI Companion Generation: 20 Tokens; Image Generation: 10 Tokens; Voice Message: 3 Tokens; Voice Calls: 7 Tokens per minute; Influencer Messages: Varies depending on the influencer.\" Base allocation is 100 tokens/month, so the included allowance is e.g. 10 images OR ~14 minutes of voice call per month before buying more.",
+    "numeric": "100",
+    "unit": "tokens/month base allocation",
+    "source_url": "https://dreamgf.ai/pricing",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "dreamgf-ai",
+    "fact": "limits",
+    "value": "Daily Claim Bonus (message top-up): \"Claim your 10 daily messages and watch your bonus grow with each consecutive day! Your reward increases by 1 additional message each day - 10 on the first, 11 on the second, 12 on the third, reaching up to 50 messages on the 40th day ... missing a day will reset your streak back to 10.\"",
+    "numeric": "50",
+    "unit": "max messages/day at 40-day streak",
+    "source_url": "https://dreamgf.ai/",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "dreamgf-ai",
+    "fact": "limits",
+    "value": "Referral rewards: \"You get +100 Tokens! Your friend gets +50 Tokens!\" upon a successful referral payment; premium users only.",
+    "numeric": "100",
+    "unit": "tokens per successful referral",
+    "source_url": "https://dreamgf.ai/",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "dreamgf-ai",
+    "fact": "platforms",
+    "value": "Web only. No iOS or Android app: no App Store, Google Play, apps.apple.com or play.google.com link or mention appears anywhere across the homepage, pricing, policies, terms, roadmap or registration pages. The word \"APP\" in the marketing headline (\"AI girlfriend APP that works\") refers to the web app. Mobile support is responsive web only - roadmap #27 \"New Builder for Mobile Devices\" (29 Jan 2024) describes a mobile-optimised builder, not a native app.",
+    "numeric": "",
+    "unit": "",
+    "source_url": "https://dreamgf.ai/",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "dreamgf-ai",
+    "fact": "account_requirement",
+    "value": "Account required; email is sufficient and no card is indicated for the free trial. FAQ: \"Press on the free trial button. You will sign a pop-up! You can sign-up directly with google or patreon which will automatically create an account for you. If you wish to register with email just type your email and you will receive your password with which you can login!\" Social SSO also includes Apple and Discord (roadmap #35, 15 Apr 2024). No page states that payment details are collected to start the trial - though the site never affirmatively says \"no credit card required\" either.",
+    "numeric": "",
+    "unit": "",
+    "source_url": "https://dreamgf.ai/",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "dreamgf-ai",
+    "fact": "account_requirement",
+    "value": "Card is charged automatically once a token package is clicked, for paying users: \"Token purchases will be automatically charged to the card once the user clicks on a token package of choice.\" Payments are by bank card directly on-platform, with Patreon retained as fallback; American Express and Discover are not accepted (roadmap #20).",
+    "numeric": "",
+    "unit": "",
+    "source_url": "https://dreamgf.ai/pricing",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "dreambf-ai",
+    "fact": "pricing_tier",
+    "value": "Tier published verbatim as \"3-Month Membership: First Payment: $12.99 / Recurring Cost: $25.99/month if not canceled\". NOTE: the site's own heading and recurring period contradict each other (a \"3-Month\" plan billed monthly) — reported exactly as published, not corrected.",
+    "numeric": "12.99",
+    "unit": "USD",
+    "source_url": "https://dreambf.ai/pricing",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "dreambf-ai",
+    "fact": "pricing_tier",
+    "value": "Tier published verbatim as \"Monthly Membership: First Payment: $29.97 / Recurring Cost: $77.97 every 3 months if not canceled\". NOTE: the site's own heading and recurring period contradict each other (a \"Monthly\" plan billed quarterly) — reported exactly as published, not corrected.",
+    "numeric": "29.97",
+    "unit": "USD",
+    "source_url": "https://dreambf.ai/pricing",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "dreambf-ai",
+    "fact": "pricing_tier",
+    "value": "\"Annual Membership: First Payment: $69.99 / Recurring Cost: $311.88 annually if not canceled\".",
+    "numeric": "69.99",
+    "unit": "USD",
+    "source_url": "https://dreambf.ai/pricing",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "dreambf-ai",
+    "fact": "pricing_tier",
+    "value": "All membership tiers unlock the same published feature set: \"100 Tokens every month, Voice Calls & Messages, Faster Image Generation (up to 5x), Remove Blur from Images, Faster Response Times, 100% Secure & Anonymous (Cancel anytime), 100% Privacy (No adult transactions on bank statements)\". Headline promo: \"Enjoy up to 75% off on your first subscription!\"",
+    "numeric": "",
+    "unit": "",
+    "source_url": "https://dreambf.ai/pricing",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "dreambf-ai",
+    "fact": "pricing_tier",
+    "value": "Add-on token packages, not a subscription tier: \"Tokens are available for purchase only to premium members. Prices start at $2.99 and go up to $179.99.\" Explicitly one-off: \"Token purchases are one off single transaction and are not recurring.\"",
+    "numeric": "",
+    "unit": "USD",
+    "source_url": "https://dreambf.ai/pricing",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "dreambf-ai",
+    "fact": "pricing_tier",
+    "value": "Additional recurring charge disclosed outside the price list: \"DreamBF reserves the right to apply a Maintenance Charge of $1.99 per month to keep user accounts active and operational.\" Applies only to users who previously purchased the service.",
+    "numeric": "1.99",
+    "unit": "USD",
+    "source_url": "https://dreambf.ai/membership-policy",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "dreambf-ai",
+    "fact": "free_tier",
+    "value": "A free entry path exists but is never specified as a named tier with published quotas. Homepage: \"Try our simulator for FREE!\" and step 1 of the flow is \"Create account — Sign up and create your account. It's quick and easy!\", with step 6 \"Upgrade to a paid plan if you want to generate more content and send more messages.\" The Membership Policy adds: \"we offer a free trial period before they choose to purchase a membership.\" The exact free allowance (message count, image count, trial length) is NOT published anywhere on the site.",
+    "numeric": "",
+    "unit": "",
+    "source_url": "https://dreambf.ai/membership-policy",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "dreambf-ai",
+    "fact": "free_tier",
+    "value": "Two reward mechanics are gated to paying users, narrowing the free tier: the referral program (\"You get +100 Tokens! Your friend gets +50 Tokens!\") is stated as \"Referral program is for premium users only.\" Tokens generally are \"available for purchase only to premium members.\"",
+    "numeric": "",
+    "unit": "",
+    "source_url": "https://dreambf.ai/",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "dreambf-ai",
+    "fact": "limits",
+    "value": "Daily Claim Bonus Program, published on the homepage without an explicit free/paid gate: \"Claim your 10 daily messages... Your reward increases by 1 additional message each day – 10 on the first, 11 on the second, 12 on the third, reaching up to 50 messages on the 40th day... missing a day will reset your streak back to 10.\"",
+    "numeric": "",
+    "unit": "messages/day",
+    "source_url": "https://dreambf.ai/",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "dreambf-ai",
+    "fact": "limits",
+    "value": "Messaging for paying members is uncapped: \"Users who buy a membership enjoy unlimited messaging to AI generated companions, while additional features such as AI companion creation, image generation, and voice interactions require tokens.\" Membership includes 100 tokens/month baseline.",
+    "numeric": "100",
+    "unit": "tokens/month",
+    "source_url": "https://dreambf.ai/membership-policy",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "dreambf-ai",
+    "fact": "limits",
+    "value": "Token consumption rates that function as the real per-action caps: \"AI Companion Generation: 20 Tokens; Image Generation: 10 Tokens; Voice Message: 3 Tokens; Voice Calls: 7 Tokens per minute; Influencer Messages: Varies depending on the influencer.\" At the included 100 tokens/month this is e.g. 10 images OR ~14 voice-call minutes per month before buying more.",
+    "numeric": "",
+    "unit": "tokens per action",
+    "source_url": "https://dreambf.ai/pricing",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "dreambf-ai",
+    "fact": "modalities",
+    "value": "Text chat, image generation, voice messages and voice calls are all confirmed. Pricing lists \"Voice Calls & Messages\" and \"Faster Image Generation (up to 5x) / Remove Blur from Images\"; the token table prices \"Voice Message: 3 Tokens\" and \"Voice Calls: 7 Tokens per minute\"; site copy says \"You can interact with your man through chat or voice\". Video generation is NOT offered — the only occurrence of video on the whole site is a conditional hedge in the Terms (\"incl. voice messages and video generation if incorporated\"), which is not a claim that the feature exists.",
+    "numeric": "",
+    "unit": "",
+    "source_url": "https://dreambf.ai/pricing",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "dreambf-ai",
+    "fact": "platforms",
+    "value": "Web only. Across all 25 DreamBF pages retrieved there is not a single apps.apple.com or play.google.com link, and no \"download the app\" call to action; the product is delivered in-browser despite the homepage headline calling it an \"AI boyfriend APP\". No native iOS or Android app is offered on the site.",
+    "numeric": "",
+    "unit": "",
+    "source_url": "https://dreambf.ai/",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "dreambf-ai",
+    "fact": "account_requirement",
+    "value": "An account is required before chatting — account creation is step 1 of the published flow, and the registration page states \"Sign in your account to get access to your men and chats!\". Users must affirm they are 18+. The site does NOT state anywhere whether a payment card is required to start the free trial, nor whether sign-up is email-only; the registration form renders client-side and its fields are not in the served HTML. That specific question is unresolved.",
+    "numeric": "",
+    "unit": "",
+    "source_url": "https://dreambf.ai/register",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "joi",
+    "fact": "pricing_tier",
+    "value": "\"Premium\" — the only named paid subscription tier. Terms: \"Joi AI offers you two account access programs which are the following: “Basic”: which provides limited access to the Service... “Premium”: a subscription-fee based program.\" Billed \"automatically on a monthly, quarterly, semi-annual, or annual basis, depending on the plan you choose\"; charge appears on the bank statement as joi.com. Unlocks full access plus eligibility for paid add-ons: \"Premium is required to access certain paid add-ons, including subscriptions to individual Virtual friends, characters, or bots.\" NO PRICE OR CURRENCY IS PUBLISHED ANYWHERE ON THE OFFICIAL SITE — Terms state only that \"“Premium”, Bot Subscription, and Neuron prices may vary based on region, length of subscription, selected Virtual friend, character, or bot, available promotions, and other factors.\"",
+    "numeric": "",
+    "unit": "",
+    "source_url": "https://joi.ai/terms",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "joi",
+    "fact": "pricing_tier",
+    "value": "Premium plan lengths as stated in the product FAQ: \"Joi AI offers 1-month, 3-month and 12-month options.\" No price given for any of the three.",
+    "numeric": "3",
+    "unit": "plan length options",
+    "source_url": "https://joi.com/generate/images",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "joi",
+    "fact": "pricing_tier",
+    "value": "\"Bot Subscription\" — a separate paid add-on: \"Users with an active Premium subscription may purchase a separate subscription to certain individual Virtual friends, characters, or bots.\" Requires an active Premium subscription; may be recurring or a one-off indefinite purchase depending on the offer. Access is suspended if Premium lapses. No price published.",
+    "numeric": "",
+    "unit": "",
+    "source_url": "https://joi.ai/terms",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "joi",
+    "fact": "pricing_tier",
+    "value": "\"Neurons\" — consumable credit currency sold in packs, separate from the subscription. FAQ: \"You can choose a plan and purchase exciting extras using the special Neuron currency, available in tiers of 500, 2k and 10k.\" Help centre: \"Neuron packs are available in several sizes - the larger the pack, the better the per-unit rate.\" No monetary price published for any pack.",
+    "numeric": "",
+    "unit": "",
+    "source_url": "https://joi.com/generate/images",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "joi",
+    "fact": "pricing_tier",
+    "value": "What Neurons buy (they cover everything the subscription does not): \"We also have Neurons, which are used for services which are not included in Subscription or Bot Subscriptions, including but not limited to romantic, erotic or sexually explicit messages, visual content, or adult-themed scenarios.\" Also used for Virtual gifts, whose price \"is specified in Neurons and varies depending on the selected Virtual gift.\"",
+    "numeric": "",
+    "unit": "",
+    "source_url": "https://joi.ai/terms",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "joi",
+    "fact": "free_tier",
+    "value": "Yes — a free tier exists, named \"Basic\": \"“Basic”: which provides limited access to the Service. We reserve the right to deny the free use to anyone at any time at our own discretion.\" The Terms do not enumerate what Basic limits beyond \"limited access\". A lapsed Premium account falls back to it: \"If your payment is not completed within 7 days of the due date, your subscription will automatically be downgraded to “Basic.”\"",
+    "numeric": "",
+    "unit": "",
+    "source_url": "https://joi.ai/terms",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "joi",
+    "fact": "free_tier",
+    "value": "The one concrete published free-tier limit: \"Free accounts get 6 lifetime image generations to try it out - just note that generations are stored for 7 days, so make sure to save the ones you love before they expire.\" Lifetime, not per-month.",
+    "numeric": "6",
+    "unit": "lifetime image generations",
+    "source_url": "https://help.joi.com/articles/how-can-i-create-ai-images-and-videos",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "joi",
+    "fact": "free_tier",
+    "value": "Free generations do not cover character-based output: \"If you want to generate images or videos using a specific character, that works via Neurons rather than your free generations.\" The generator UI shows the exhausted state as \"You've used your free generations. Upgrade now\".",
+    "numeric": "",
+    "unit": "",
+    "source_url": "https://help.joi.com/articles/how-can-i-create-ai-images-and-videos",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "joi",
+    "fact": "languages",
+    "value": "Official supported-language list from the help centre: \"Available languages: English (EN) Deutsch (DE) French (FR) Japanese (JA) Spanish (ES) Portuguese (PT). More languages coming - we're always expanding. If yours isn't listed yet, English is the most fully supported option for now.\" GERMAN: yes. FRENCH: yes. SPANISH: yes. DUTCH: NOT listed and not supported.",
+    "numeric": "6",
+    "unit": "languages listed",
+    "source_url": "https://help.joi.com/articles/do-we-support-languages-other-than-english",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "joi",
+    "fact": "languages",
+    "value": "Localised site versions declared via hreflang alternates on the homepage: en (x-default), de (de.joi.com), es, fr, it, ja, pt. Italian has a live localised subdomain even though it is absent from the help-centre language list. There is no nl (Dutch) alternate and nl.joi.ai / nl.joi.com do not resolve.",
+    "numeric": "7",
+    "unit": "hreflang locales incl. English",
+    "source_url": "https://joi.com/",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "joi",
+    "fact": "modalities",
+    "value": "Text chat, voice, and video call: \"You can communicate with your Virtual friend via text, voice, and (where available) the Video Call Feature.\" The Video Call Feature is defined as \"a feature that allows you to communicate with your Virtual friend via real-time audio and video interface (where available)\" and \"may require camera and microphone permissions. Availability may vary by device, region, and plan.\"",
+    "numeric": "",
+    "unit": "",
+    "source_url": "https://joi.ai/terms",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "joi",
+    "fact": "modalities",
+    "value": "AI image generation and AI video generation are first-class product surfaces, exposed as \"Generate images\" and \"Generate videos\" in the main navigation, with a combined generator offering an Image/Video toggle, art styles, poses, negative prompts, resolution control and a \"Fast Generation / Boost Clarity\" quality switch. The generator page displays a running counter of \"102,897,195 generations\" (read 2026-09-03).",
+    "numeric": "",
+    "unit": "",
+    "source_url": "https://joi.com/generate/images",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "joi",
+    "fact": "modalities",
+    "value": "In-chat photo and video delivery from characters, priced in Neurons rather than included in the subscription (see limits). Plus an AI character generator: \"AI Character Generator – create 18+ characters and stories\", choosing between hyperrealistic and anime art styles.",
+    "numeric": "",
+    "unit": "",
+    "source_url": "https://joi.com/generate/character",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "joi",
+    "fact": "limits",
+    "value": "Neuron consumption rates, the only per-action caps the product publishes: \"One romantic message costs 4 neurons to be read. One photo view costs up to 120 neurons depending on the theme. One video view costs up to 1900 neurons depending on the theme. Our loyal customers may get beneficial pricing which depends on their use of service.\"",
+    "numeric": "4",
+    "unit": "neurons per romantic message read",
+    "source_url": "https://joi.ai/terms",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "joi",
+    "fact": "limits",
+    "value": "Photo view cost: \"One photo view costs up to 120 neurons depending on the theme.\"",
+    "numeric": "120",
+    "unit": "neurons per photo view (maximum)",
+    "source_url": "https://joi.ai/terms",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "joi",
+    "fact": "limits",
+    "value": "Video view cost: \"One video view costs up to 1900 neurons depending on the theme.\"",
+    "numeric": "1900",
+    "unit": "neurons per video view (maximum)",
+    "source_url": "https://joi.ai/terms",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "joi",
+    "fact": "limits",
+    "value": "Image generator batch cap: \"Number of Generations - Choose how many images to generate at once - up to 12\" (UI offers 2 / 4 / 8 / 12).",
+    "numeric": "12",
+    "unit": "images per generation batch (maximum)",
+    "source_url": "https://help.joi.com/articles/how-can-i-create-ai-images-and-videos",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "joi",
+    "fact": "limits",
+    "value": "Paid-tier quota behaviour: \"Your monthly benefits reset every month, no matter which plan you're on. All your benefits refresh on the same day each month, based on the date you first purchased your subscription... unused benefits roll over to the next month, so nothing is wasted - any leftover quota simply adds up to your next refresh.\" The size of that monthly quota is not published.",
+    "numeric": "",
+    "unit": "",
+    "source_url": "https://help.joi.com/articles/with-a-yearly-subscription-do-my-benefits-still-reset-every-month",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "joi",
+    "fact": "limits",
+    "value": "Free-account generation retention: generated media on a free account is \"stored for 7 days\" before expiring.",
+    "numeric": "7",
+    "unit": "days retention for free-account generations",
+    "source_url": "https://help.joi.com/articles/how-can-i-create-ai-images-and-videos",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "joi",
+    "fact": "limits",
+    "value": "The only rate limit described anywhere is a moderation control, not a usage tier: \"Group chats are additionally subject to rate limiting, new-account restrictions on link and contact sharing, and automated interruption of exchanges matching high-confidence solicitation patterns.\" No numeric text-message cap is published for either Basic or Premium.",
+    "numeric": "",
+    "unit": "",
+    "source_url": "https://joi.ai/terms",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "joi",
+    "fact": "platforms",
+    "value": "Web only. The service is a responsive website, installable as a PWA — the manifest declares \"name\":\"JOI AI\", \"display\":\"standalone\", \"orientation\":\"portrait\" and \"related_applications\":[{\"platform\":\"webapp\",...}] with \"prefer_related_applications\":false, i.e. no companion native app is declared. No App Store or Google Play link appears anywhere on joi.com, joi.ai, help.joi.com or creator.joi.com. The homepage meta description markets it as \"Chat with fictional companions without login or download\".",
+    "numeric": "",
+    "unit": "",
+    "source_url": "https://joi.ai/manifest.webmanifest",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "joi",
+    "fact": "platforms",
+    "value": "Geographic restriction: the United Kingdom is blocked. \"Due to UK age-verification legislation, access to this website is currently unavailable for users located in the United Kingdom. We are actively working on implementing an age-verification system in compliance with UK law.\"",
+    "numeric": "",
+    "unit": "",
+    "source_url": "https://joi.com/uk/unavailable",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "joi",
+    "fact": "account_requirement",
+    "value": "Age 18+ and one account per person: \"When you create an account with us, You must be at least 18 years old\"; \"You may have only one account with the Service\"; \"Our self-sufficient artificial intelligence may block your account if it has grounds to consider that you are under 18 years old.\" Users also opt in to marketing by using the service: \"While using the Service you agree to receive advertising mailings from other our products.\"",
+    "numeric": "18",
+    "unit": "minimum age (years)",
+    "source_url": "https://joi.ai/terms",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "joi",
+    "fact": "account_requirement",
+    "value": "Data collected at signup, per the Privacy Policy table: First name, Gender and Email are all marked \"At the stage of registration.\" Email is used \"to enable you to register using your email and restore your password.\" A Google sign-in option is present on the signup page. Signup itself is described only in terms of email/name/gender — a payment method is referenced solely in connection with purchasing Premium.",
+    "numeric": "",
+    "unit": "",
+    "source_url": "https://joi.ai/privacy",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "joi",
+    "fact": "account_requirement",
+    "value": "Age verification is handled by a third party and may go well beyond email: \"JOI uses a trusted third-party provider, VerifyMyAge... Background email verification... Facial age estimation... Government-issued ID verification\" (passport, driving licence or national ID, sometimes with a selfie comparison) \"In regions with stricter legal requirements.\" Triggered \"during registration; when accessing Premium or explicit content; or when required by local regulations in your region.\" \"JOI does not store copies of your identity documents.\"",
+    "numeric": "",
+    "unit": "",
+    "source_url": "https://help.joi.com/articles/age-verification",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "joi",
+    "fact": "account_requirement",
+    "value": "Payment methods accepted for Premium: \"purchasing a subscription to the Service directly on our website using a valid credit or debit card. Additionally, payment can be made via Google Pay or Apple Pay, if supported by your device, or using cryptocurrency, where available.\"",
+    "numeric": "",
+    "unit": "",
+    "source_url": "https://joi.ai/terms",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "kupid-ai",
+    "fact": "pricing_tier",
+    "value": "Pro — weekly billing: $12.99 per week (USD). Unlocks unlimited messages, 100 coins/week, 25 photos/week, 8 videos/week, 12 min voice messages/week, memory of last 100 messages, voice input (\"Talk to Her\"), fast response speed, high queue priority, fast support, 4 custom characters.",
+    "numeric": "12.99",
+    "unit": "USD/week",
+    "source_url": "https://www.kupid.ai/subscriptions",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "kupid-ai",
+    "fact": "pricing_tier",
+    "value": "Pro — yearly billing: $179 per year (USD), displayed on the plan card as $3.44/week against a $12.99/week reference price. Same feature set as Pro weekly (100 coins/week, 25 photos/week, 8 videos/week, 12 min voice/week, last-100-message memory, 4 custom characters).",
+    "numeric": "179",
+    "unit": "USD/year",
+    "source_url": "https://www.kupid.ai/subscriptions",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "kupid-ai",
+    "fact": "pricing_tier",
+    "value": "Ultra — weekly billing: $24.99 per week (USD). Unlocks unlimited messages, 300 coins/week, 75 photos/week, 25 videos/week, 35 min voice messages/week, unlimited chat memory, voice input, fastest response speed, highest queue priority, fastest support, 8 custom characters.",
+    "numeric": "24.99",
+    "unit": "USD/week",
+    "source_url": "https://www.kupid.ai/subscriptions",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "kupid-ai",
+    "fact": "pricing_tier",
+    "value": "Ultra — yearly billing: $299 per year (USD), rendered on the page as \"Billed as one payment of $299/year\" and displayed as $5.75/week against a $24.99/week reference price. Marked \"BEST\" and pre-selected by default. Same feature set as Ultra weekly.",
+    "numeric": "299",
+    "unit": "USD/year",
+    "source_url": "https://www.kupid.ai/subscriptions",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "kupid-ai",
+    "fact": "pricing_tier",
+    "value": "Lifetime — one-time payment of $777 (USD), described as \"Pay once, enjoy forever\" / \"One payment, forever benefits\". Plan record: 800 coins (monthly allowance) and 8 custom-character slots. Page advertises unlimited messages forever, unlimited memory, voice input, fastest response speed and highest queue priority.",
+    "numeric": "777",
+    "unit": "USD one-time",
+    "source_url": "https://www.kupid.ai/subscriptions",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "kupid-ai",
+    "fact": "free_tier",
+    "value": "A free tier exists (\"Free Sign Up\"). Limits, from the site's own plan-comparison table: 15 messages; NO photos, NO videos, NO voice messages and NO voice input (all shown as excluded); chat memory limited to the last 30 messages; standard response speed; standard queue priority; no priority support; 1 custom character. The in-product exhaustion message is \"You're out of messages this week\", indicating a weekly quota. Kupid also offers a one-time bonus of 50 free messages for verifying your email address (\"Get 50 free messages with zero interruptions — just verify your email\").",
+    "numeric": "15",
+    "unit": "messages",
+    "source_url": "https://www.kupid.ai/subscriptions",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "kupid-ai",
+    "fact": "free_tier",
+    "value": "Free tier requires no payment card: \"Create your perfect AI girlfriend in four steps. Customize her look, voice, and personality. Free to start, no card required.\"",
+    "numeric": "",
+    "unit": "",
+    "source_url": "https://www.kupid.ai/create-ai-girlfriend",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "kupid-ai",
+    "fact": "languages",
+    "value": "14 UI locales are declared and served by the site: en (English), de (German), es (Spanish), fr (French), it (Italian), ja (Japanese), ko (Korean), ru (Russian), tr (Turkish), zh (Chinese), hi (Hindi), pt (Portuguese), vi (Vietnamese), nl (Dutch). Default locale is en. All four specifically checked — German (/de/), Dutch (/nl/), French (/fr/), Spanish (/es/) — return HTTP 200 with fully translated interface copy, confirmed on the subscriptions page. Note this evidences UI/marketing localisation; Kupid does not publish a separate statement about which languages the AI companions themselves converse in.",
+    "numeric": "14",
+    "unit": "locales",
+    "source_url": "https://www.kupid.ai/subscriptions",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "kupid-ai",
+    "fact": "modalities",
+    "value": "Text chat, AI image generation (\"Photos\"), AI video generation (\"Videos\"), voice messages received from the companion, and voice input to the companion (\"Talk to Her\"). The Terms confirm the scope: \"The APP generates messages... The APP can also generates medias including, but not limited to, images, videos and voice notes.\" Trial feature list names \"Voice messages (send & receive)\", \"Premium image generation\" and \"Video generation\". No real-time voice-call or video-call feature was found anywhere on the site.",
+    "numeric": "",
+    "unit": "",
+    "source_url": "https://www.kupid.ai/terms-of-service",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "kupid-ai",
+    "fact": "limits",
+    "value": "Paid usage is metered by a coin balance, not by raw counts. Coin allowances: Pro 100 coins/week, Ultra 300 coins/week, Lifetime 800 coins/month. The page derives media allowances from the balance — a photo costs 4 coins and a video costs 12 coins — which yields the rendered figures: Pro 25 photos + 8 videos per week; Ultra 75 photos + 25 videos per week. Voice messages are time-capped separately: 12 min/week (Pro), 35 min/week (Ultra). Chat memory: last 30 messages (Free), last 100 messages (Pro), unlimited (Ultra/Lifetime). Custom characters: 1 (Free), 4 (Pro), 8 (Ultra/Lifetime). Messages are unlimited on all paid tiers and capped at 15 on Free. Response speed and queue priority are explicitly tiered (standard / fast / fastest and standard / high / highest).",
+    "numeric": "",
+    "unit": "",
+    "source_url": "https://www.kupid.ai/subscriptions",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "kupid-ai",
+    "fact": "limits",
+    "value": "Coin expiry: \"Coins credited at no additional charge — including Coins included with a subscription plan, recurring plan coin allowances, free-trial Coins, promotional Coins, and gifted Coins — expire six (6) months after the date they are credited to your account. Unused expired Coins are removed automatically and are not refundable or otherwise compensated.\"",
+    "numeric": "6",
+    "unit": "months to coin expiry",
+    "source_url": "https://www.kupid.ai/terms-of-service",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "kupid-ai",
+    "fact": "platforms",
+    "value": "Web only, plus an installable PWA. The site ships a web app manifest (name \"Kupid AI\", display \"standalone\", portrait) and in-product install instructions for Android/Chrome (\"Tap the three dots menu (⋮)... Tap 'Add to Home Screen' or 'Install app'\") and for iOS (\"Tap the Share button... Tap 'Add to Home Screen'\"). No Apple App Store or Google Play listing is linked anywhere on the site — searched across the homepage, pricing, sitemap, policy pages and all 56 JavaScript bundles for apps.apple.com / itunes.apple.com / play.google.com / testflight links, with zero matches.",
+    "numeric": "",
+    "unit": "",
+    "source_url": "https://www.kupid.ai/manifest.json",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "kupid-ai",
+    "fact": "account_requirement",
+    "value": "Account creation is email + password (\"Free Sign Up\"; fields Email / Password, with forgot-password flow). Discord is supported as a sign-in provider (the app rejects Discord accounts whose email is unverified). Email verification is optional but incentivised with 50 bonus messages. No payment card is required to use the free tier (\"Free to start, no card required\"). The Terms note that \"Parts of the Services offered by the APP may require you to create a user account.\"",
+    "numeric": "",
+    "unit": "",
+    "source_url": "https://www.kupid.ai/create-ai-girlfriend",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "kupid-ai",
+    "fact": "account_requirement",
+    "value": "Separately from the no-card free tier, Kupid operates a card-backed free trial: \"We charge $0.5 for card verification only. This will be refunded immediately.\" The trial can be cancelled before it ends (\"Cancel anytime before trial ends\"); activating early \"will charge your card and start your subscription immediately\". The trial's duration is not published as a fixed number — the UI renders it from a variable end date.",
+    "numeric": "0.5",
+    "unit": "USD refundable card-verification charge",
+    "source_url": "https://www.kupid.ai/subscriptions",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "ehentai-ai",
+    "fact": "pricing_tier",
+    "value": "Premium Membership — MONTHLY. Standard/recurring price $25.99 per month. Currently sold at a 'LIMITED TIME OFFER' 50% OFF: first payment $12.99 (checkout shows 'Total: $12.99'), then $25.99/month if not canceled. Unlocks the full Premium benefit list (see 'limits' and 'modalities' rows).",
+    "numeric": "25.99",
+    "unit": "USD per month (recurring); site prints only '$', no ISO currency code published",
+    "source_url": "https://ehentai.ai/plans",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "ehentai-ai",
+    "fact": "pricing_tier",
+    "value": "Premium Membership — PER 3 MONTHS (quarterly). Standard/recurring price $77.97 every 3 months. Currently 60% OFF for the first term: first payment $29.97 (checkout 'Total: $29.97'), advertised as $9.99/month, 'You save: $48.00'; then $77.97 every 3 months if not canceled.",
+    "numeric": "77.97",
+    "unit": "USD per 3 months (recurring); site prints only '$'",
+    "source_url": "https://ehentai.ai/plans",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "ehentai-ai",
+    "fact": "pricing_tier",
+    "value": "Premium Membership — ANNUALLY. Standard/recurring price $311.88 per year. Currently 75% OFF for the first term: first payment $69.99 (checkout 'Total: $69.99'), advertised as $5.99/month, 'You save: $241.89'; then $311.88 annually if not canceled.",
+    "numeric": "311.88",
+    "unit": "USD per year (recurring); site prints only '$'",
+    "source_url": "https://ehentai.ai/plans",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "ehentai-ai",
+    "fact": "pricing_tier",
+    "value": "Recurring prices confirmed in text on the pricing disclosure page: 'First Payment: $12.99 / Recurring Cost: $25.99/month if not canceled', 'First Payment: $29.97 / Recurring Cost: $77.97 every 3 months if not canceled', 'First Payment: $69.99 / Recurring Cost: $311.88 annually if not canceled'. NOTE: this page mislabels the first two — it calls the $12.99 one '3-Month Membership' and the $29.97 one 'Monthly Membership', contradicting the /plans checkout.",
+    "numeric": "",
+    "unit": "",
+    "source_url": "https://ehentai.ai/pricing",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "ehentai-ai",
+    "fact": "pricing_tier",
+    "value": "Token packages (consumable add-on, not a subscription tier): 'Tokens are available for purchase only to premium members. Prices start at $2.99 and go up to $179.99.' One-off single transactions, not recurring, charged to card on click.",
+    "numeric": "",
+    "unit": "",
+    "source_url": "https://ehentai.ai/pricing",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "ehentai-ai",
+    "fact": "pricing_tier",
+    "value": "Maintenance charge: 'eHentai reserves the right to apply a Maintenance Charge of $1.99 per month to keep user accounts active and operational.' Applies only to users who have previously purchased; avoidable by deleting the account.",
+    "numeric": "1.99",
+    "unit": "USD per month (conditional)",
+    "source_url": "https://ehentai.ai/membership-policy",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "ehentai-ai",
+    "fact": "free_tier",
+    "value": "Yes — a free trial exists. Published limit: 'With the free trial you can create up to 2 girlfriends, 4 secondary photos and 10 messages.' Registration is required ('Yes, you'll need a account to create an AI girlfriend'). Homepage CTA: 'Registration is FREE! No cards/payments required for the free trial.'",
+    "numeric": "",
+    "unit": "",
+    "source_url": "https://ehentai.ai/",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "ehentai-ai",
+    "fact": "free_tier",
+    "value": "Daily Claim Bonus Program extends free messaging: 'Claim your 10 daily messages... Your reward increases by 1 additional message each day – 10 on the first, 11 on the second, 12 on the third, reaching up to 50 messages on the 40th day. ... missing a day will reset your streak back to 10.'",
+    "numeric": "",
+    "unit": "",
+    "source_url": "https://ehentai.ai/",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "ehentai-ai",
+    "fact": "languages",
+    "value": "English only, as published. The site serves <html lang=\"en\">, publishes no language switcher, no hreflang alternates, and no localized URL paths (sitemap contains no locale variants). German, Dutch, French and Spanish are NOT offered or advertised anywhere on the site — no localized UI and no claim of multilingual chat.",
+    "numeric": "",
+    "unit": "",
+    "source_url": "https://ehentai.ai/",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "ehentai-ai",
+    "fact": "modalities",
+    "value": "Text chat / AI sexting (core product): 'Chat & sexting. Custom personalities, outfits and more.' Feature list: AI sexting messages, AI girlfriend Personality Setup, AI girlfriend secondary image generation, AI chat content requests, AI voice messages, AI girls matching, Fetish generator.",
+    "numeric": "",
+    "unit": "",
+    "source_url": "https://ehentai.ai/",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "ehentai-ai",
+    "fact": "modalities",
+    "value": "Image generation: on-demand, in-chat, real-time. 'Our advanced AI technology is designed to detect users' requests for photos within the chat... generating and providing relevant images'; 'the photos generated in response to your request are generated in real-time.' Separate character-builder image generation also exists.",
+    "numeric": "",
+    "unit": "",
+    "source_url": "https://ehentai.ai/",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "ehentai-ai",
+    "fact": "modalities",
+    "value": "Voice: both voice messages and voice calls are live. Premium benefits list on the checkout page includes 'Voice messages' and 'Voice calls'; the pricing page lists 'Voice Calls & Messages' as included and prices them at 3 tokens per voice message / 7 tokens per minute of voice call.",
+    "numeric": "",
+    "unit": "",
+    "source_url": "https://ehentai.ai/pricing",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "ehentai-ai",
+    "fact": "modalities",
+    "value": "Video: NOT available. The product page labels video 'Coming Soon' — 'Soon with the help of eHentai AI you will be able to create videos of your dream AI Generated Girls' and 'she will make videos for you — Coming Soon'.",
+    "numeric": "",
+    "unit": "",
+    "source_url": "https://ehentai.ai/ai-dating-app",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "ehentai-ai",
+    "fact": "limits",
+    "value": "Free tier caps: 2 AI girlfriends, 4 secondary photos, 10 messages (plus the daily claim bonus of 10 rising to 50 messages/day on a 40-day streak).",
+    "numeric": "",
+    "unit": "",
+    "source_url": "https://ehentai.ai/",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "ehentai-ai",
+    "fact": "limits",
+    "value": "Premium: messaging is uncapped — checkout benefit list states 'Unlimited messages'; membership policy: 'Users who buy a membership enjoy unlimited messaging to AI generated companions, while additional features such as AI companion creation, image generation, and voice interactions require tokens.'",
+    "numeric": "",
+    "unit": "",
+    "source_url": "https://ehentai.ai/membership-policy",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "ehentai-ai",
+    "fact": "limits",
+    "value": "Everything except messaging is metered in tokens. Published token costs: AI Companion Generation 20 tokens; Image Generation 10 tokens; Voice Message 3 tokens; Voice Calls 7 tokens per minute; Influencer Messages vary by influencer. Monthly token allowance is stated inconsistently: the /plans checkout says '150 Tokens per month', the /pricing page says '100 Tokens every month', and the membership policy says 'The base amount of tokens per month is 100, but this can increase if the user purchases a membership with a promotional token package.'",
+    "numeric": "",
+    "unit": "",
+    "source_url": "https://ehentai.ai/pricing",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "ehentai-ai",
+    "fact": "limits",
+    "value": "Speed/queue differentiation rather than a published rate limit: Premium includes 'Faster Image Generation (up to 5x)' and 'Faster Response Times' (implying free-tier throttling). No numeric requests-per-minute or per-hour rate limit is published anywhere on the site.",
+    "numeric": "",
+    "unit": "",
+    "source_url": "https://ehentai.ai/pricing",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "ehentai-ai",
+    "fact": "limits",
+    "value": "Retention limit: generated girlfriends, images and chats are deleted after inactivity — 'we are implementing a content/message deletion procedures for old unused girlfriends & images & chats'; retention period depends on the subscription.",
+    "numeric": "",
+    "unit": "",
+    "source_url": "https://ehentai.ai/ai-dating-app",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "ehentai-ai",
+    "fact": "platforms",
+    "value": "Web only. The site describes itself as a web app ('our AI Girlfriend web app') and publishes no iOS or Android application: no App Store link, no Google Play link, and no 'download the app' reference anywhere on the homepage, pricing, plans, policies or terms pages. 'AI hentai APP' in the hero copy is marketing wording for the website, not a native app.",
+    "numeric": "",
+    "unit": "",
+    "source_url": "https://ehentai.ai/",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "ehentai-ai",
+    "fact": "account_requirement",
+    "value": "Account required, no card for the free trial. 'Press on the free trial button... You can sign-up directly with google or patreon which will automatically create an account for you. If you wish to register with email just type your email and you will receive your password with which you can login!' Homepage states 'Registration is FREE! No cards/payments required for the free trial.' So: email (or Google / Patreon OAuth) only; payment card is required only to subscribe.",
+    "numeric": "",
+    "unit": "",
+    "source_url": "https://ehentai.ai/",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "ehentai-ai",
+    "fact": "account_requirement",
+    "value": "Operator identity published in the site footer and terms: DreamAI SRL, sole registration no. 48479324, Bucharest Trade Registry no. J40/12952/2023, EUID ROONRC.J40/12952/2023, address Strada C. C. ARION Nr. 11, Bucharest Sector 1, Romania. Site is part of a network with DreamGF.ai, DreamBF.ai and JustPorn.ai (linked in the top nav).",
+    "numeric": "",
+    "unit": "",
+    "source_url": "https://ehentai.ai/terms",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "candy-ai",
+    "fact": "pricing_tier",
+    "value": "Premium — 1 Month plan: \"1 Month\" / \"$13.99 /month\"; checkout text: \"Monthly payment billed as $13.99 Cancel any time. Renews automatically for the same price and term.\" Unlocks the shared \"Premium Benefits\" block: Create your own AI Girlfriend(s); Generate 18+ Videos; Generate 18+ Images; Full Live Action Experience; Unlimited text messages; 100 tokens per month.",
+    "numeric": "13.99",
+    "unit": "USD/month",
+    "source_url": "https://candy.ai/subscriptions",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "candy-ai",
+    "fact": "pricing_tier",
+    "value": "Premium — 3 Months (quarterly) plan: \"3 Months\" / \"35% OFF\" / \"$8.99 /month\" shown against a struck-through $13.99; checkout text: \"Quarterly payment billed as $26.97 Cancel any time. Renews automatically for the same price and term.\" Same Premium Benefits block (incl. 100 tokens per month). Total charge per 3-month term is $26.97.",
+    "numeric": "26.97",
+    "unit": "USD/quarter",
+    "source_url": "https://candy.ai/subscriptions",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "candy-ai",
+    "fact": "pricing_tier",
+    "value": "Premium — 12 Months (yearly) plan, labelled \"BEST VALUE\": \"12 Months\" / \"70% OFF\" / \"$3.99 /month\" shown against a struck-through $13.99; checkout text: \"Annual payment billed as $47.88 Cancel any time. Renews automatically for the same price and term.\" Same Premium Benefits block (incl. 100 tokens per month). Total charge per year is $47.88. Page also states \"Additional local taxes may apply\".",
+    "numeric": "47.88",
+    "unit": "USD/year",
+    "source_url": "https://candy.ai/subscriptions",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "candy-ai",
+    "fact": "pricing_tier",
+    "value": "Premium Plus — a separate, higher subscription tier confirmed by the operator's own help center: \"Premium Plus is our newest subscription tier, offering exclusive bonuses and enhanced features.\" Benefits: 330 FREE tokens every month; Unlimited Text messages/Chats; Create your own AI Girlfriend; Generate 18+ images; Live Action/New Experiences and Live audio; 10% bonus tokens when topping up (Quarterly and Yearly plans only); Early access to new characters (3 days before standard release); Chat customization; User personas; Memory slots (20); Clone chats (5). NO PRICE IS PUBLISHED: the tier does not appear at all on the public /subscriptions page (zero occurrences of \"Premium Plus\" or \"330\" in the logged-out page), so its cost could not be established without an account.",
+    "numeric": "",
+    "unit": "",
+    "source_url": "https://everai.zendesk.com/hc/en-us/articles/55659274151961-What-is-Premium-Plus",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "candy-ai",
+    "fact": "pricing_tier",
+    "value": "Weekly and bi-weekly billing variants exist in the /subscriptions page markup but are NOT offered in the plan selector and are hidden by default. Verbatim strings: \"Weekly payment billed as $5.6 Cancel any time.\" and \"Payment every 2 weeks billed as $9.79 Cancel any time.\" Their containers carry class \"hidden\" (data-subscription-target=\"weeklyBillingInfo\" / \"biweeklyBillingInfo\"), and the only selectable data-plan-type values on the page are monthly, quarterly and yearly. Treat these as conditional/promotional billing terms, NOT as publicly purchasable tiers.",
+    "numeric": "",
+    "unit": "",
+    "source_url": "https://candy.ai/subscriptions",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "candy-ai",
+    "fact": "free_tier",
+    "value": "Yes, a free tier exists (\"Join Free\" / \"Create Free Account\"). Operator help center, verbatim: \"Free users can do all of the following: Send up to 5 messages in chat (across all characters) Create one custom AI character Generate one image (either via the image generator or directly in chat)\". Note the 5-message cap is across all characters combined, not per character.",
+    "numeric": "5",
+    "unit": "messages (lifetime, across all characters)",
+    "source_url": "https://everai.zendesk.com/hc/en-us/articles/44221410602649-What-can-I-do-as-a-free-user",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "candy-ai",
+    "fact": "free_tier",
+    "value": "Terms of Service corroborate the free cap, verbatim: \"As a free user, you may generally send a maximum of 5 messages to AI Characters. Further use requires a subscription, which may be billed either monthly, quarterly or annually, or other form of paid-for access.\" On cancellation an account reverts to the free version and \"Any remaining tokens in your account will expire and become unusable.\"",
+    "numeric": "5",
+    "unit": "messages",
+    "source_url": "https://candy.ai/terms-of-service",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "candy-ai",
+    "fact": "languages",
+    "value": "13 fully localized site versions verified live, each returning HTTP 200 with a matching <html lang> attribute and a native-language switcher label: English (/, lang=en), French (/fr, Français), German (/de, Deutsch), Spanish (/es, Español), Dutch (/nl, Nederlands), Italian (/it, Italiano), Portuguese-BR (/pt-BR, Português), Swedish (/sv, Svenska), Danish (/da, Dansk), Norwegian (/no, Norsk), Finnish (/fi, Suomi), Japanese (/ja, 日本語), Polish (/pl, Polski). All 13 are also declared in the sitemap index and linked from the site footer. ALL FOUR REQUESTED LANGUAGES CONFIRMED: German, Dutch, French, Spanish — UI strings verified genuinely translated (e.g. DE \"Kostenloses Konto erstellen\", NL \"Gratis account aanmaken\", FR \"Créer un compte gratuit\").",
+    "numeric": "13",
+    "unit": "localized site versions",
+    "source_url": "https://candy.ai/sitemap.xml",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "candy-ai",
+    "fact": "languages",
+    "value": "CAVEAT — the operator's help center contradicts the live site and is stale. One article states \"Right now, Candy.ai only has full localization for: English French German Spanish\" and that Portuguese \"is not officially supported yet\"; an older article states \"Both English and French localizations are officially supported.\" Meanwhile /pt-BR, /nl, /ja and 6 more locales are live and translated. Site homepage copy is stale too: \"we also offer a fully localized French version of the site... And more languages are coming soon.\" For AI chat language specifically, the help center says the character's reply language follows the selected site language but only applies to NEW conversations (existing chats must be reset), and for non-officially-supported languages \"results may vary\" / quality \"can be inconsistent\" and long chats \"may drift back into English\". No help-center article exists for Dutch chat.",
+    "numeric": "",
+    "unit": "",
+    "source_url": "https://everai.zendesk.com/hc/en-us/articles/59629775469337-Is-Portuguese-translation-available",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "candy-ai",
+    "fact": "modalities",
+    "value": "Four modalities, all confirmed. Text chat (\"Unlimited text messages\" for paid; \"the heart of the connection\"); voice (\"Choose from voices that are soft and comforting, bold and confident\"; help center lists \"Listening to a voice message\" and \"Voice Calls (beta)\"); image generation (\"With image generation, you can see your companion just the way you imagine them\"; \"Generate 18+ Images\"); video (\"video brings it all together. Watch them move, react, and engage with you in real time\"; \"Generate 18+ Videos\"). Homepage FAQ, verbatim: \"Yes, Candy AI supports multimodal interaction. Your companion can engage in voice conversations, generate personalized images, and appear in AI-generated videos.\" Additional named features in the help center: Candy Cam, Candy Shorts, Candy Roulette, Interactive Stories (Neon Run), Build Your Video, My Private Content packs.",
+    "numeric": "",
+    "unit": "",
+    "source_url": "https://candy.ai/",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "candy-ai",
+    "fact": "limits",
+    "value": "Free: 5 chat messages total across all characters, 1 custom AI character, 1 image generation. Paid Premium: \"Unlimited chatting\" plus \"100 tokens per month to use with various site features such as image generation, video generation, creating custom AIs, and more!\" Premium Plus: 330 tokens per month. Tokens — not messages — are the metering unit for everything beyond text: image generation, creating a custom AI, listening to a voice message, voice calls (beta), unlocking My Private Content packs, and video generation. Token replenishment lands monthly on the subscription anniversary day (yearly subscribers still receive 100/month but are charged only once per year). Running out mid-month requires buying more at https://candy.ai/tokens. Unused tokens expire when the subscription ends and are non-transferable. No published requests-per-minute or hard rate limit.",
+    "numeric": "100",
+    "unit": "tokens per month (Premium); 330 for Premium Plus",
+    "source_url": "https://everai.zendesk.com/hc/en-us/articles/44102896051481-What-can-I-do-as-a-paid-user",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "candy-ai",
+    "fact": "platforms",
+    "value": "Web only, with a PWA install path — no native app-store apps. Homepage FAQ, verbatim: \"No installation is needed. You can access your AI Girlfriend directly through Candy AI on desktop or mobile, anytime, anywhere.\" The site serves a PWA manifest at /manifest.json (name \"Candy AI\", Android + iOS icon sets) and shows an install prompt reading \"Get App to Receive Notifications from: New Features / Sales and Discounts / New Messages — 1. Tap \"Share\" 2. Tap \"Add to Home Screen\"\". No links or textual references to the Apple App Store or Google Play appear anywhere on the homepage or subscriptions page, so there is no evidence of a native iOS or Android app.",
+    "numeric": "",
+    "unit": "",
+    "source_url": "https://candy.ai/",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "candy-ai",
+    "fact": "account_requirement",
+    "value": "Email-based signup; no card required for the free tier. Terms of Service, verbatim: \"Parts of our Services may require you to create a user account with an email and password or other available login method (\"Account\").\" The site's CTAs are \"Join Free\" / \"Create Free Account\". Payment details are only invoked for subscriptions: \"Subscriptions are payable by credit card, Pay by Bank, and/or other alternative payment methods available in specific countries.\" Accepted methods per help center: credit cards, debit cards, cryptocurrency, Apple Pay, Google Pay, and bank transfer (Volt, Pix); the homepage names BTC, ETH, USDC and Litecoin. Billing is discreet — \"Transactions are processed securely and appear under a neutral merchant name.\" Refunds: within 24 hours of payment, only if 20 tokens or fewer were used, card payments only; EU/UK buyers get 14 days without giving a reason. Subscriptions auto-renew by default.",
+    "numeric": "",
+    "unit": "",
+    "source_url": "https://candy.ai/terms-of-service",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "darlink-ai",
+    "fact": "pricing_tier",
+    "value": "Essential — $12.99/month billed monthly; $10.99/month billed quarterly; $9.99/month billed yearly ($119.88/year, listed against an original $155.88). Unlocks: 100 free coins each month, 6000 messages/month, NSFW, 6 standard voice options, Basic memory, Quick Roleplay creation, image generation (2 tokens each), video generation (20 tokens each), Essential Creator Badge.",
+    "numeric": "12.99",
+    "unit": "USD/month billed monthly",
+    "source_url": "https://darlink.ai/plan-selection",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "darlink-ai",
+    "fact": "pricing_tier",
+    "value": "Advanced — $27.99/month billed monthly; $21.99/month billed quarterly; $18.99/month billed yearly ($227.88/year, listed against an original $335.88). Marked '-32% Most Popular'. Unlocks: 300 free coins each month, 9000 messages/month, Fastest Messaging Time, NSFW, 10 premium voice options, Enhanced memory, Deep Roleplay creation, image generation (2 tokens), video generation (20 tokens), support link on profile, Advanced Creator Badge.",
+    "numeric": "27.99",
+    "unit": "USD/month billed monthly",
+    "source_url": "https://darlink.ai/plan-selection",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "darlink-ai",
+    "fact": "pricing_tier",
+    "value": "Ultimate — $49.99/month billed monthly; $39.99/month billed quarterly; $32.99/month billed yearly ($395.88/year, listed against an original $599.88). Marked 'Everything Unlocked'. Unlocks: 500 free coins each month, Unlimited Messages, Fastest Messaging Time, NSFW, 10 premium voice options, Living memory, Unlimited Roleplay creation, Elite Roleplay Engine, image generation (2 tokens), video generation (20 tokens), support link on profile, Ultimate Creator Badge.",
+    "numeric": "49.99",
+    "unit": "USD/month billed monthly",
+    "source_url": "https://darlink.ai/plan-selection",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "darlink-ai",
+    "fact": "pricing_tier",
+    "value": "Token pack (a la carte, separate from subscriptions): 100 Tokens for $9.99. Payable by card or crypto.",
+    "numeric": "9.99",
+    "unit": "USD one-time",
+    "source_url": "https://darlink.ai/tokens",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "darlink-ai",
+    "fact": "pricing_tier",
+    "value": "Token pack: 350 Tokens for $34.99 (marked 'Save 20%', struck-through $43.74).",
+    "numeric": "34.99",
+    "unit": "USD one-time",
+    "source_url": "https://darlink.ai/tokens",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "darlink-ai",
+    "fact": "pricing_tier",
+    "value": "Token pack: 550 Tokens for $49.99 (marked 'Save 30%', struck-through $71.41).",
+    "numeric": "49.99",
+    "unit": "USD one-time",
+    "source_url": "https://darlink.ai/tokens",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "darlink-ai",
+    "fact": "pricing_tier",
+    "value": "Token pack: 1,150 Tokens for $99.99 (marked 'Save 30%', struck-through $142.84).",
+    "numeric": "99.99",
+    "unit": "USD one-time",
+    "source_url": "https://darlink.ai/tokens",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "darlink-ai",
+    "fact": "pricing_tier",
+    "value": "Token pack: 3,750 Tokens for $299.99 (marked 'Save 50%', struck-through $599.98).",
+    "numeric": "299.99",
+    "unit": "USD one-time",
+    "source_url": "https://darlink.ai/tokens",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "darlink-ai",
+    "fact": "pricing_tier",
+    "value": "Token pack: 7,500 Tokens for $599.99 (marked 'Save 50%', struck-through $1199.98).",
+    "numeric": "599.99",
+    "unit": "USD one-time",
+    "source_url": "https://darlink.ai/tokens",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "darlink-ai",
+    "fact": "free_tier",
+    "value": "Yes, a free tier exists. The site brands itself a 'Free AI Girlfriend Generator' and the Refund Policy refers to users who 'downgrade to a free plan'. The in-product 'Upgrade to Unlock' modal states that a subscription is what grants: Create AI Video, Create your own AI Girls, Unlimited text messages, and Remove image blur — i.e. on the free tier video generation and custom-character creation are locked, text messages are capped, and generated images are shown blurred. Guests can start one character generation without an account (guest-generate flow, protected by a Turnstile challenge and rate-limited with GUEST_RATE_LIMITED / GUEST_SESSION_LIMIT errors) but must sign up to claim the result. The exact numeric free message allowance is not published anywhere on the site.",
+    "numeric": "",
+    "unit": "",
+    "source_url": "https://darlink.ai/refund",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "darlink-ai",
+    "fact": "languages",
+    "value": "English only. The site's own Organization schema declares availableLanguage 'English'. The document is served as <html lang=\"en\">, there are no hreflang alternate tags, there is no language switcher in the navigation, header or footer, and locale-prefixed paths return HTTP 404 (/de, /nl, /fr, /es, /it, /pt, /pl, /ja and their /plan-selection variants all 404). Specifically checked and NOT offered: German, Dutch, French, Spanish.",
+    "numeric": "",
+    "unit": "",
+    "source_url": "https://darlink.ai/plan-selection",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "darlink-ai",
+    "fact": "modalities",
+    "value": "Text chat, voice, image generation and video generation all exist. Voice: 6 standard voice options on Essential, 10 premium voice options on Advanced and Ultimate ('Are voices included?' FAQ). Image generation costs 2 tokens per generation; video generation costs 20 tokens per generation, both listed as features on all three paid plans. The Privacy Policy confirms storage of 'text or voice messages and any images you send during chats'. Navigation exposes Chat, Generator and Create sections.",
+    "numeric": "",
+    "unit": "",
+    "source_url": "https://darlink.ai/plan-selection",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "darlink-ai",
+    "fact": "limits",
+    "value": "Message caps per paid plan: Essential 6000 messages/month; Advanced 9000 messages/month; Ultimate unlimited messages. Monthly coin allowances: Essential 100, Advanced 300, Ultimate 500 free coins each month. Generation costs: image generation 2 tokens, video generation 20 tokens (identical on all three plans). Free/guest tier: text messages are capped (not unlimited) and guest character generation is rate-limited behind a Turnstile challenge, but no numeric free-tier cap or rate-limit figure is published.",
+    "numeric": "",
+    "unit": "",
+    "source_url": "https://darlink.ai/plan-selection",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "darlink-ai",
+    "fact": "platforms",
+    "value": "Web only, as far as the site itself publishes: darlink.ai is a responsive web app (Next.js). No App Store or Google Play download link appears anywhere on the homepage, pricing page, or footer. The Terms of Service and Privacy Policy contain boilerplate referring to subscriptions purchased through 'the Apple App Store or Google Play Store' and to 'the app', but no actual iOS or Android app listing is linked from the site, so native app availability is not confirmed by the product's own pages.",
+    "numeric": "",
+    "unit": "",
+    "source_url": "https://darlink.ai/terms-and-conditions",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "darlink-ai",
+    "fact": "account_requirement",
+    "value": "Email only — no card needed for the free tier. Sign-up offers 'Continue with Google' or 'Continue with Email' (email + password, with an email-verification step). The Privacy Policy states account creation collects 'your name, email address, and login credentials'. Payment details are only collected when subscribing, are handled by a third-party payment processor, and accepted methods are credit/debit card and crypto (crypto stated as annual-plan-only and without auto-renewal). Users must be 18 or older; one account per person. A guest can run one character generation before registering.",
+    "numeric": "",
+    "unit": "",
+    "source_url": "https://darlink.ai/privacy-policy",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "lovescape",
+    "fact": "pricing_tier",
+    "value": "Premium, 1-month term: $19.99/mo, billed monthly, auto-renewing. Unlocks: create AI characters, generate images & videos, hot roleplays, voice messages, NSFW mode, top AI generation models, publish & share characters, Premium member badge, 600 monthly chips, 15% referral earnings.",
+    "numeric": "19.99",
+    "unit": "USD/month",
+    "source_url": "https://lovescape.com/subscription",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "lovescape",
+    "fact": "pricing_tier",
+    "value": "Premium, 3-month term: $12.99/mo (page labels this -35%), billed every 3 months.",
+    "numeric": "12.99",
+    "unit": "USD/month",
+    "source_url": "https://lovescape.com/subscription",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "lovescape",
+    "fact": "pricing_tier",
+    "value": "Premium, 12-month term: $7.99/mo (page labels this -60%); checkout line reads 'Billed $95.88 every year. Cancel anytime.'",
+    "numeric": "7.99",
+    "unit": "USD/month (billed $95.88/year)",
+    "source_url": "https://lovescape.com/subscription",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "lovescape",
+    "fact": "pricing_tier",
+    "value": "Creative PRO, 1-month term: $64.99/mo (page labels this -35%). Unlocks everything in Premium plus: Pro Creator badge, 3000 monthly chips, 30% referral earnings, no-watermark downloads, advanced AI chat memory.",
+    "numeric": "64.99",
+    "unit": "USD/month",
+    "source_url": "https://lovescape.com/subscription/pro",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "lovescape",
+    "fact": "pricing_tier",
+    "value": "Creative PRO, 3-month term: $49.99/mo (page labels this -50%).",
+    "numeric": "49.99",
+    "unit": "USD/month",
+    "source_url": "https://lovescape.com/subscription/pro",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "lovescape",
+    "fact": "pricing_tier",
+    "value": "Creative PRO, 12-month term: $24.99/mo (page labels this -75%); checkout line reads 'Billed $299.88 every year. Cancel anytime.'",
+    "numeric": "24.99",
+    "unit": "USD/month (billed $299.88/year)",
+    "source_url": "https://lovescape.com/subscription/pro",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "lovescape",
+    "fact": "pricing_tier",
+    "value": "Ultra, Lifetime: one-time $399.60, shown struck through from $999 (page labels this -60%); checkout line reads 'Billed $399.6 once.' Unlocks everything in Creative PRO plus Ultra Creator badge and 4000 monthly chips. Terms clause 3.6 defines 'lifetime' as lasting only as long as the service remains commercially available and supported, with no refund if discontinued.",
+    "numeric": "399.6",
+    "unit": "USD one-time",
+    "source_url": "https://lovescape.com/subscription/ultra",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "lovescape",
+    "fact": "free_tier",
+    "value": "Yes. A free account exists. Official FAQ: 'you can try the online ai character generator for free, with premium options available for advanced features.' Terms state Lovescape 'operates on a subscription basis, providing various plans that include picture generation, voice messages, and unlimited chatting' — i.e. unlimited chat, voice and image/video generation are the paid unlocks.",
+    "numeric": "",
+    "unit": "",
+    "source_url": "https://lovescape.com/ai-character-generator",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "lovescape",
+    "fact": "free_tier",
+    "value": "Hard limit on the free tier: chips (the internal generation currency) cannot be bought without a subscription. Help Center: 'Who can buy Chips? Only users with an active subscription.' and 'Available only to subscribed users'. Since chips are 'primarily used for AI image generation', a free account cannot buy generation capacity at all.",
+    "numeric": "",
+    "unit": "",
+    "source_url": "https://help.lovescape.com/hc/en-us/articles/30828415556881-Lovescape-Chips-What-They-Are-How-They-Work-and-How-to-Use-Them",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "lovescape",
+    "fact": "languages",
+    "value": "8 languages. Official llms.txt states: 'Available in: EN, DE, FR, IT, ES, JA, NL, PT.' German, Dutch, French and Spanish are all supported. Corroborated by per-language sitemaps (sitemap-de/fr/it/es/ja/nl/pt.xml) in robots.txt and by hreflang alternates on the subscription page for /de/, /es/, /fr/, /it/, /ja/, /nl/, /pt/.",
+    "numeric": "8",
+    "unit": "languages",
+    "source_url": "https://lovescape.com/llms.txt",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "lovescape",
+    "fact": "modalities",
+    "value": "Text chat, voice, image generation and video generation all exist. Help Center lists: create customizable AI characters, real-time chat, AI image generation, and AI video generation (described as an 'evolving'/in-development feature). Premium feature list adds 'Digital voice interactions with AI' and 'Receive voice messages from AI characters'. Homepage additionally markets an AI story generator and an AI live cam section.",
+    "numeric": "",
+    "unit": "",
+    "source_url": "https://help.lovescape.com/hc/en-us/articles/26017197133713-What-Is-Lovescape-AI-Companions-Chat-Image-Video-Generation-Platform",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "lovescape",
+    "fact": "limits",
+    "value": "Paid-plan generation allowance is metered in monthly 'chips': Premium 600/month, Creative PRO 3000/month, Ultra 4000/month. Each image shows its chip cost before generation and cost 'may vary depending on complexity or features'. Chips do not expire and are non-refundable.",
+    "numeric": "",
+    "unit": "",
+    "source_url": "https://lovescape.com/subscription/pro",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "lovescape",
+    "fact": "limits",
+    "value": "Chat message length cap is 2000 characters (config.privateMessages.maxLength returned by the site's own public front-end config endpoint).",
+    "numeric": "2000",
+    "unit": "characters per message",
+    "source_url": "https://lovescape.com/api/front/v2/config/data",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "lovescape",
+    "fact": "limits",
+    "value": "Paid tiers are advertised as removing message caps: Premium help page states 'No limits on messages or interaction time' and 'Unlimited AI Chat Experience'. No numeric free-tier message cap is published anywhere on the site.",
+    "numeric": "",
+    "unit": "",
+    "source_url": "https://help.lovescape.com/hc/en-us/articles/31060479234705-Lovescape-Premium-Membership",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "lovescape",
+    "fact": "platforms",
+    "value": "Web only. Responsive site plus an installable PWA (manifest.json declares display 'standalone', start_url '/', portrait orientation). No iOS App Store or Google Play links appear anywhere in the rendered site, footer, or manifest; homepage describes 'a responsive web-based AI porn generator app for compatible mobile and desktop browsers'.",
+    "numeric": "",
+    "unit": "",
+    "source_url": "https://lovescape.com/manifest.json",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "lovescape",
+    "fact": "account_requirement",
+    "value": "Email only — no card required for a free account. Signup offers an email field or OAuth via Google, X, or Discord, with an 18+ confirmation. The moderation policy describes registration as accepting the Terms and verifying the email address, plus self-declaration of being at least 18. A payment method is requested only at purchase (Terms 3.2).",
+    "numeric": "",
+    "unit": "",
+    "source_url": "https://lovescape.com/signup",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "lovescape",
+    "fact": "account_requirement",
+    "value": "Operator disclosed in Terms: Warmtech Ltd, a Cyprus limited liability company, registration number HE 418620, Spyrou Kyprianou 75, Flat/Office 102, Potamos Germasogeias, 4042, Limassol, Cyprus. Subscriptions auto-renew until cancelled; cancelling stops future terms but gives no prorated refund for the current one.",
+    "numeric": "",
+    "unit": "",
+    "source_url": "https://lovescape.com/terms",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "secrets-ai",
+    "fact": "pricing_tier",
+    "value": "Premium, monthly billing: $19.99 per month (shown with a $39.99 USD strikethrough list price), labelled \"Billed monthly\". Unlocks: Unlimited messaging; 8,000 Moments per month; Image & video generation; Premium AI models.",
+    "numeric": "19.99",
+    "unit": "USD/month",
+    "source_url": "https://www.secrets.ai/store",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "secrets-ai",
+    "fact": "pricing_tier",
+    "value": "Premium, yearly billing: $9.17 per month effective, \"Billed $109.99 per year\", toggle labelled \"Yearly (77% OFF)\" against a $39.99 USD list price. Same features as Premium monthly.",
+    "numeric": "109.99",
+    "unit": "USD/year",
+    "source_url": "https://www.secrets.ai/store",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "secrets-ai",
+    "fact": "pricing_tier",
+    "value": "Ultimate, monthly billing: $39.99 per month (shown with a $79.99 USD strikethrough list price), labelled \"Billed monthly\". Unlocks: Everything in Premium; 15,000 Moments per month; Group chats; Personas & advanced customization.",
+    "numeric": "39.99",
+    "unit": "USD/month",
+    "source_url": "https://www.secrets.ai/store",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "secrets-ai",
+    "fact": "pricing_tier",
+    "value": "Ultimate, yearly billing: $26.67 per month effective, \"Billed $319.99 per year\", toggle labelled \"Yearly (67% OFF)\" against a $79.99 USD list price. Same features as Ultimate monthly.",
+    "numeric": "319.99",
+    "unit": "USD/year",
+    "source_url": "https://www.secrets.ai/store",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "secrets-ai",
+    "fact": "pricing_tier",
+    "value": "Billing descriptor: subscriptions and Moments purchases appear on the bank statement as \"S LABS INC.\" Cancellation is self-serve from the Subscription page with access retained to the end of the paid period; upgrades credit unused time toward the new plan.",
+    "numeric": "",
+    "unit": "",
+    "source_url": "https://www.secrets.ai/store",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "secrets-ai",
+    "fact": "pricing_tier",
+    "value": "Four subscription tier names ship in the site's own interface strings — Lite, Plus, Premium, Ultimate — but only Premium and Ultimate are exposed with prices on the public store page. No price is published anywhere public for Lite or Plus.",
+    "numeric": "",
+    "unit": "",
+    "source_url": "https://www.secrets.ai/store",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "secrets-ai",
+    "fact": "free_tier",
+    "value": "Yes, a free tier exists and is the fallback state after cancelling: \"after that your account simply moves to the free tier with your chats, memories, custom characters and generated content all preserved.\" Free accounts get 200 Moments at signup plus one free custom companion.",
+    "numeric": "200",
+    "unit": "Moments granted at signup",
+    "source_url": "https://www.secrets.ai/store",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "secrets-ai",
+    "fact": "free_tier",
+    "value": "Free-tier restrictions, as stated by the site: generated media is deleted after 14 days on Free (\"Generated media will be deleted after 14 days on Free\"); daily message/response allowance is capped (\"Daily Limit Reached! You've reached {count} daily messages\") whereas \"Unlimited messaging\" is sold as a paid feature; group chats and Personas/advanced customization are Ultimate-only. Browsing without any account is further limited by a guest message cap and guests cannot generate images at all.",
+    "numeric": "14",
+    "unit": "days media retention on Free",
+    "source_url": "https://www.secrets.ai/store",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "secrets-ai",
+    "fact": "languages",
+    "value": "Five UI languages, declared by the site's own hreflang alternates and sitemap index: English (/), German (/de/), Spanish (/es/), French (/fr/), Japanese (/ja/). Checked explicitly: German YES, French YES, Spanish YES, Dutch NO — there is no nl sitemap or hreflang entry, and /nl/ falls back to English (serves <html lang=\"en\">).",
+    "numeric": "5",
+    "unit": "languages",
+    "source_url": "https://www.secrets.ai/sitemap.xml",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "secrets-ai",
+    "fact": "modalities",
+    "value": "Text chat, image generation, video generation and voice all exist. The site's own web app manifest describes the product as \"Chat with AI companions, generate images and videos, and explore your secrets.\" Moments are spent on \"Image generation\", \"Video generation\" and \"Voice chat\"; the store lists \"Image & video generation\" as a Premium feature. There is also a \"Shorts\" section of mini-drama video episodes and voice-call / text-to-speech features in the chat UI.",
+    "numeric": "",
+    "unit": "",
+    "source_url": "https://www.secrets.ai/manifest.webmanifest",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "secrets-ai",
+    "fact": "limits",
+    "value": "Paid allowances are denominated in \"Moments\", the in-app currency: \"Moments are the in-app currency you spend on things like images, videos and voice calls. Your subscription refills them automatically every month: 8,000 on Premium and 15,000 on Ultimate. Subscribers also get a bonus on any extra Moments they buy, 10% on Premium and 15% on Ultimate.\" Messaging is unlimited on both paid tiers.",
+    "numeric": "8000",
+    "unit": "Moments/month on Premium (15000 on Ultimate)",
+    "source_url": "https://www.secrets.ai/store",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "secrets-ai",
+    "fact": "limits",
+    "value": "Free and guest limits are enforced but the numbers are not published: the app carries a daily message cap for free users (\"You've reached {count} daily messages\", with a \"Next reset in\" timer) and a guest cap (\"You've sent {count} messages as a guest\"), both filled in server-side. Separate rate limits also exist on message send (\"You're sending messages too quickly\") and on image generation (\"Rate Limited\" / \"Next image in\" cooldown).",
+    "numeric": "",
+    "unit": "",
+    "source_url": "https://www.secrets.ai/store",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "secrets-ai",
+    "fact": "platforms",
+    "value": "Web only. The site is a responsive web app plus an installable PWA (web app manifest with \"display\":\"standalone\", name \"Secrets.AI\"). No native iOS or Android application is offered or linked: there is no App Store or Google Play link anywhere in the navigation, footer, or the site's shipped JavaScript bundles. (Apple and Google appear only as OAuth sign-in options, not as app downloads.)",
+    "numeric": "",
+    "unit": "",
+    "source_url": "https://www.secrets.ai/manifest.webmanifest",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "secrets-ai",
+    "fact": "account_requirement",
+    "value": "Email address only, no payment card for the free tier: \"Do I need to give personal information? Just an email address, and that's genuinely it. No real name, no phone number, no ID for standard use. You can stay as anonymous as you like.\" Signup is via email/password, Google, or Apple, and requires confirming you are 18+. A card is needed only to subscribe.",
+    "numeric": "",
+    "unit": "",
+    "source_url": "https://www.secrets.ai/store",
+    "retrieved_at": "2026-09-03"
+  },
+  {
+    "product": "ourdream-ai",
+    "fact": "pricing_tier",
+    "value": "Monthly $19.99 or yearly $9.99/month billed as $119.88. Paid plans: unlimited messages, image and video generation, 1000 dreamcoins per month. Yearly bonus 1000 dreamcoins at first subscribe.",
+    "numeric": "19.99",
+    "unit": "USD/month",
+    "source_url": "https://ourdream.ai/",
+    "retrieved_at": "2026-09-04"
+  },
+  {
+    "product": "ourdream-ai",
+    "fact": "free_tier",
+    "value": "New account gets 55 dreamcoins with no credit card, per the vendor create page: up to 10 characters (5 coins) or 55 messages (1 coin).",
+    "numeric": "55",
+    "unit": "dreamcoins",
+    "source_url": "https://ourdream.ai/create-ai-girlfriend",
+    "retrieved_at": "2026-09-04"
+  },
+  {
+    "product": "ourdream-ai",
+    "fact": "limits",
+    "value": "Paid plans include 1000 dreamcoins per month. Unlimited messages on paid. Media draws on dreamcoins.",
+    "numeric": "1000",
+    "unit": "dreamcoins/month",
+    "source_url": "https://ourdream.ai/",
+    "retrieved_at": "2026-09-04"
+  },
+  {
+    "product": "ourdream-ai",
+    "fact": "account_requirement",
+    "value": "18+ age gate. Operator named Dream Studio USA, Inc. on the homepage footer.",
+    "numeric": "18",
+    "unit": "years",
+    "source_url": "https://ourdream.ai/",
+    "retrieved_at": "2026-09-04"
+  },
+  {
+    "product": "ourdream-ai",
+    "fact": "modalities",
+    "value": "Chat, images, video, voice calls. Homepage claims 11 million+ characters.",
+    "numeric": "",
+    "unit": "",
+    "source_url": "https://ourdream.ai/",
+    "retrieved_at": "2026-09-04"
+  },
+  {
+    "product": "xotic-ai",
+    "fact": "pricing_tier",
+    "value": "No public price list established from xotic.ai on 2026-09-04.",
+    "numeric": "",
+    "unit": "",
+    "source_url": "https://www.xotic.ai/",
+    "retrieved_at": "2026-09-04"
+  },
+  {
+    "product": "xotic-ai",
+    "fact": "free_tier",
+    "value": "Not established from a public vendor page on 2026-09-04.",
+    "numeric": "",
+    "unit": "",
+    "source_url": "https://www.xotic.ai/",
+    "retrieved_at": "2026-09-04"
+  },
+  {
+    "product": "xotic-ai",
+    "fact": "limits",
+    "value": "Not established from a public vendor page on 2026-09-04.",
+    "numeric": "",
+    "unit": "",
+    "source_url": "https://www.xotic.ai/",
+    "retrieved_at": "2026-09-04"
+  },
+  {
+    "product": "xotic-ai",
+    "fact": "account_requirement",
+    "value": "Not established beyond adult positioning of the marketing site.",
+    "numeric": "",
+    "unit": "",
+    "source_url": "https://www.xotic.ai/",
+    "retrieved_at": "2026-09-04"
+  },
+  {
+    "product": "dondi-ai",
+    "fact": "pricing_tier",
+    "value": "No numeric tariff on the public homepage on 2026-09-04.",
+    "numeric": "",
+    "unit": "",
+    "source_url": "https://dondi.ai/",
+    "retrieved_at": "2026-09-04"
+  },
+  {
+    "product": "dondi-ai",
+    "fact": "free_tier",
+    "value": "Not established from a public vendor page on 2026-09-04.",
+    "numeric": "",
+    "unit": "",
+    "source_url": "https://dondi.ai/",
+    "retrieved_at": "2026-09-04"
+  },
+  {
+    "product": "dondi-ai",
+    "fact": "limits",
+    "value": "Not established from a public vendor page on 2026-09-04.",
+    "numeric": "",
+    "unit": "",
+    "source_url": "https://dondi.ai/",
+    "retrieved_at": "2026-09-04"
+  },
+  {
+    "product": "dondi-ai",
+    "fact": "account_requirement",
+    "value": "Not established from a public vendor page on 2026-09-04.",
+    "numeric": "",
+    "unit": "",
+    "source_url": "https://dondi.ai/",
+    "retrieved_at": "2026-09-04"
+  },
+  {
+    "product": "girlfriendgpt",
+    "fact": "pricing_tier",
+    "value": "Not established from a public vendor pricing page on 2026-09-04.",
+    "numeric": "",
+    "unit": "",
+    "source_url": "https://www.gptgirlfriend.online/",
+    "retrieved_at": "2026-09-04"
+  },
+  {
+    "product": "girlfriendgpt",
+    "fact": "free_tier",
+    "value": "Not established from a public vendor page on 2026-09-04.",
+    "numeric": "",
+    "unit": "",
+    "source_url": "https://www.gptgirlfriend.online/",
+    "retrieved_at": "2026-09-04"
+  },
+  {
+    "product": "girlfriendgpt",
+    "fact": "limits",
+    "value": "Not established from a public vendor page on 2026-09-04.",
+    "numeric": "",
+    "unit": "",
+    "source_url": "https://www.gptgirlfriend.online/",
+    "retrieved_at": "2026-09-04"
+  },
+  {
+    "product": "girlfriendgpt",
+    "fact": "account_requirement",
+    "value": "Not established from a public vendor page on 2026-09-04.",
+    "numeric": "",
+    "unit": "",
+    "source_url": "https://www.gptgirlfriend.online/",
+    "retrieved_at": "2026-09-04"
+  },
+  {
+    "product": "ourdream-ai",
+    "fact": "platforms",
+    "value": "Web app at ourdream.ai. Locale-prefixed routes /de /nl /fr /es return HTTP 200 but serve html lang=en with no hreflang — not a translated UI. No App Store or Google Play listing on the public site.",
+    "numeric": "",
+    "unit": "",
+    "source_url": "https://ourdream.ai/",
+    "retrieved_at": "2026-09-04"
+  },
+  {
+    "product": "ourdream-ai",
+    "fact": "languages",
+    "value": "English UI. /de /nl /fr /es resolve 200 as the same English document (html lang=en, zero hreflang). A language control exists on the homepage; the published inventory of languages was not captured.",
+    "numeric": "1",
+    "unit": "language (English UI)",
+    "source_url": "https://ourdream.ai/de",
+    "retrieved_at": "2026-09-04"
+  },
+  {
+    "product": "xotic-ai",
+    "fact": "platforms",
+    "value": "Web app at xotic.ai. /de /nl /fr /es return 404. Terms describe the Site; no App Store or Google Play link on the public terms page.",
+    "numeric": "",
+    "unit": "",
+    "source_url": "https://www.xotic.ai/terms-of-service",
+    "retrieved_at": "2026-09-04"
+  },
+  {
+    "product": "xotic-ai",
+    "fact": "languages",
+    "value": "English UI (html lang=en on /explore). Locale-prefixed routes 404.",
+    "numeric": "1",
+    "unit": "language (English)",
+    "source_url": "https://www.xotic.ai/explore",
+    "retrieved_at": "2026-09-04"
+  },
+  {
+    "product": "xotic-ai",
+    "fact": "modalities",
+    "value": "Terms: conversational AI, character building, image generation, chat storage, multi-chat. Homepage also advertises photos, videos and live video calls. No public numeric price.",
+    "numeric": "",
+    "unit": "",
+    "source_url": "https://www.xotic.ai/terms-of-service",
+    "retrieved_at": "2026-09-04"
+  },
+  {
+    "product": "xotic-ai",
+    "fact": "free_tier",
+    "value": "Terms: the platform includes both free and premium features. No numeric free-message or free-image cap is published.",
+    "numeric": "",
+    "unit": "",
+    "source_url": "https://www.xotic.ai/terms-of-service",
+    "retrieved_at": "2026-09-04"
+  },
+  {
+    "product": "xotic-ai",
+    "fact": "account_requirement",
+    "value": "18+. Operator: Xotic Tech OU, Tallinn, Estonia. Terms last updated June 20, 2025.",
+    "numeric": "",
+    "unit": "",
+    "source_url": "https://www.xotic.ai/terms-of-service",
+    "retrieved_at": "2026-09-04"
+  },
+  {
+    "product": "dondi-ai",
+    "fact": "platforms",
+    "value": "Web at dondi.ai. Terms mention website, applications, platforms without naming App Store or Google Play. /de /nl /fr /es return 404.",
+    "numeric": "",
+    "unit": "",
+    "source_url": "https://dondi.ai/terms-of-service/",
+    "retrieved_at": "2026-09-04"
+  },
+  {
+    "product": "dondi-ai",
+    "fact": "languages",
+    "value": "No published language list. Locale-prefixed routes /de /nl /fr /es return 404.",
+    "numeric": "",
+    "unit": "",
+    "source_url": "https://dondi.ai/",
+    "retrieved_at": "2026-09-04"
+  },
+  {
+    "product": "dondi-ai",
+    "fact": "modalities",
+    "value": "Terms: text chat with AI companions; images, videos, voice notes; character customisation. Premium via subscriptions or tokens. No public dollar price.",
+    "numeric": "",
+    "unit": "",
+    "source_url": "https://dondi.ai/terms-of-service/",
+    "retrieved_at": "2026-09-04"
+  },
+  {
+    "product": "dondi-ai",
+    "fact": "free_tier",
+    "value": "Homepage CTA Create Free Account / Join Free. Terms: some features only for registered or paid users. No numeric free-message cap published.",
+    "numeric": "",
+    "unit": "",
+    "source_url": "https://dondi.ai/terms-of-service/",
+    "retrieved_at": "2026-09-04"
+  },
+  {
+    "product": "dondi-ai",
+    "fact": "account_requirement",
+    "value": "18+. Terms name Techcommerce Unlimited, 15090 Kensington Park Dr, Tustin, CA 92782. Footer also names dondi.ai Labs Inc. Revision 8 January 2026.",
+    "numeric": "",
+    "unit": "",
+    "source_url": "https://dondi.ai/terms-of-service/",
+    "retrieved_at": "2026-09-04"
+  },
+  {
+    "product": "girlfriendgpt",
+    "fact": "platforms",
+    "value": "Web at gptgirlfriend.online and native apps: Terms of Use name an iOS App Store app and a Google Play app. Distinct from the original twelve products, which are web-only.",
+    "numeric": "",
+    "unit": "",
+    "source_url": "https://www.gptgirlfriend.online/legal/terms",
+    "retrieved_at": "2026-09-04"
+  },
+  {
+    "product": "girlfriendgpt",
+    "fact": "languages",
+    "value": "Localized UI confirmed by fetch on 2026-09-04: /de html lang=de, /nl lang=nl, /fr lang=fr, /es lang=es, /en lang=en.",
+    "numeric": "5",
+    "unit": "languages",
+    "source_url": "https://www.gptgirlfriend.online/de",
+    "retrieved_at": "2026-09-04"
+  },
+  {
+    "product": "girlfriendgpt",
+    "fact": "modalities",
+    "value": "Chat, text-to-image, voice chat. Terms: craft characters, chat with own and community characters, image generation.",
+    "numeric": "",
+    "unit": "",
+    "source_url": "https://www.gptgirlfriend.online/legal/terms",
+    "retrieved_at": "2026-09-04"
+  },
+  {
+    "product": "girlfriendgpt",
+    "fact": "free_tier",
+    "value": "Terms of Use (18 June 2026): core Services at no charge. Free users can generate up to 2 or 3 characters and have a limited message count, such as 10 to 20 messages in total. After that chatting stops unless they earn credits via tasks. The range is the vendor's wording.",
+    "numeric": "",
+    "unit": "",
+    "source_url": "https://www.gptgirlfriend.online/legal/terms",
+    "retrieved_at": "2026-09-04"
+  },
+  {
+    "product": "girlfriendgpt",
+    "fact": "limits",
+    "value": "Paid subscriptions: credits of 5000 up to 20000 per month depending on the subscription tier. Credits reset monthly and do not carry over. No public dollar price for those tiers.",
+    "numeric": "5000",
+    "unit": "credits/month (lower published bound; upper 20000)",
+    "source_url": "https://www.gptgirlfriend.online/legal/terms",
+    "retrieved_at": "2026-09-04"
+  }
+]

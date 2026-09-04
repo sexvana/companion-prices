@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+title: "Sexvana AI companion public pricing snapshot"
+message: "If you use this dataset, please cite it."
+type: dataset
+authors:
+  - name: Sexvana
+    website: "https://sexvana.com"
+license: CC-BY-4.0
+url: "https://sexvana.com"
+repository-code: "https://github.com/sexvana/companion-prices"
